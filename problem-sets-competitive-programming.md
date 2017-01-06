@@ -18,6 +18,7 @@
 * [Codewars](http://www.codewars.com)
 * [Codingame](https://www.codingame.com/start)
 * [Facebook Hackercup](https://www.facebook.com/hackercup)
+* [HackerEarth](https://www.hackerearth.com)
 * [Hackerrank](https://www.hackerrank.com)
 * [Hello World Open](https://helloworldopen.com)
 * [Internet Problem Solving Contest](http://ipsc.ksp.sk)
