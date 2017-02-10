@@ -71,3 +71,9 @@
 * [SQLFiddle](http://sqlfiddle.com)
 
 
+### Scala
+
+* [ScalaFiddle.io](https://scalafiddle.io)
+* [ScalaFiddle.net](http://scalafiddle.net)
+
+
