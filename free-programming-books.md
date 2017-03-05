@@ -619,6 +619,7 @@
 
 #### Security
 
+* [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us)
 * [Crypto 101 - Crypto for everyone](https://www.crypto101.io)
 * [CryptoParty Handbook](https://unglue.it/work/141611/)
 * [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/index.html)
@@ -751,7 +752,6 @@
 * [Ralf Brown's Interrupt List](http://www.ctyme.com/rbrown.htm)
 * [Software optimization resources](http://www.agner.org/optimize/) A. Fog
 * [The Art of Assembly Language Programming](https://courses.engr.illinois.edu/ece390/books/artofasm/artofasm.html)
-* [The Second Book Of Machine Language](http://www.atariarchives.org/2bml/)
 * [Wizard Code](http://vendu.twodots.nl/wizardcode.html)
 * [x86 Assembly](https://en.wikibooks.org/wiki/X86_Assembly)
 
@@ -762,6 +762,7 @@
 * [Machine Code for Beginners [Z80 and 6502 CPUs]](https://usborne.com/browse-books/features/computer-and-coding-books/) - Lisa Watts and Mike Wharton (PDF) *(Scroll to bottom and click on book cover)*
 * [Machine Language for Beginners](https://archive.org/details/ataribooks-machine-language-for-beginners) - Richard Mansfield [6502 CPU]
 * [Programmed Introduction to MIPS Assembly Language](http://chortle.ccsu.edu/AssemblyTutorial/index.html)
+* [The Second Book of Machine Language](http://www.atariarchives.org/2bml/)
 
 
 ### AutoHotkey
@@ -1252,7 +1253,7 @@
 * [Calculus by Kenneth E Iverson](http://www.jsoftware.com/books/pdf/calculus.pdf) (PDF)
 * [Computers and Mathematical Notation by Kenneth E Iverson](http://www.jsoftware.com/papers/camn.htm)
 * [Concrete Math Companion by Kenneth E Iverson](http://www.jsoftware.com/books/pdf/cmc.pdf) (PDF)
-* [Easy J by Linda Alvord, Norman Thomson](http://www.jsoftware.com/books/pdf/easyj.pdf) (PDF, [Word DOC](http://www.jsoftware.com/books/doc/easyj_doc.zip))
+* [Easy J by Linda Alvord, Norman Thomson](http://www.jsoftware.com/books/pdf/easyj.pdf) (PDF) ([Word DOC](http://www.jsoftware.com/books/doc/easyj_doc.zip))
 * [Exploring Math by Kenneth E Iverson](http://www.jsoftware.com/books/pdf/expmath.pdf) (PDF)
 * [J for C Programmers by Henry Rich](http://www.jsoftware.com/help/jforc/contents.htm)
 * [J Primer](http://www.jsoftware.com/help/primer/contents.htm)
@@ -1600,7 +1601,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Developing Applications With Objective Caml](http://caml.inria.fr/pub/docs/oreilly-book/)
 * [Real World OCaml](https://realworldocaml.org/v1/en/html/)
 * [Think OCaml](http://greenteapress.com/thinkocaml/index.html) - Allen B. Downey and Nicholas Monje
-* [Unix System Programming in OCaml](http://ocaml.github.io/ocamlunix/)
+* [Unix System Programming in OCaml](http://ocaml.github.io/ocamlunix/) [Github Repo](https://github.com/ocaml/ocamlunix/)
 * [Using, Understanding, and Unraveling The OCaml Language: From Practice to Theory and vice versa](http://pauillac.inria.fr/~remy/cours/appsem/) - Didier Rémy
 
 
@@ -1926,7 +1927,6 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 * [How to Design Programs 2e](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
 * [Programming Languages: Application and Interpretation](http://cs.brown.edu/courses/cs173/2012/book/index.html)
-* [Realm of Racket](http://it-ebooks.info/book/2628/)
 * [The Racket Guide](http://docs.racket-lang.org/guide/index.html)
 
 
