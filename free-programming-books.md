@@ -132,9 +132,9 @@
 * [OpenMP](#openmp)
 * [OpenResty](#openresty)
 * [OpenSCAD](#openscad)
-* [Parrot / Perl 6](#parrot--perl-6)
 * [PC-BSD](#pc-bsd)
 * [Perl](#perl)
+* [Perl 6 / Rakudo](#perl-6--rakudo)
 * [PHP](#php)
 * [PicoLisp](#picolisp)
 * [PostgreSQL](#postgresql)
@@ -279,7 +279,7 @@
 * [Linked List Basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf) (PDF)
 * [Linked List Problems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf) (PDF)
 * [Matters Computational: Ideas, Algorithms, Source Code](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
-* [Open Data Structures: An Introduction](http://www.aupress.ca/index.php/books/120226) - Pat Morin
+* [Open Data Structures: An Introduction](http://opendatastructures.org) - Pat Morin 
 * [Planning Algorithms](http://planning.cs.uiuc.edu)
 * [Problems on Algorithms (Second Edition)](https://larc.unt.edu/ian/books/free/license.html) - Ian Parberry (use form at bottom of license)
 * [Purely Functional Data Structures](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf) (PDF)
@@ -301,7 +301,7 @@
 #### Cloud Computing
 
 * [Multi-tenant Applications for the Cloud, 3rd Edition](http://www.microsoft.com/en-us/download/details.aspx?id=29263)
-* [OpenStack Operations Guide](http://docs.openstack.org/ops/)
+* [OpenStack Operations Guide](https://docs.openstack.org/ops-guide/index.html)
 
 
 #### Competitive Programming
@@ -712,6 +712,8 @@
 
 * [Agile Android Software Development](https://www.agiledroid.com) - Etienne Savard (PDF, epub, mobi)
 * [Android 4 App Development Essentials](http://www.techotopia.com/index.php/Android_4_App_Development_Essentials)
+* [Android Developer Fundamentals Course – Concepts](https://google-developer-training.gitbooks.io/android-developer-fundamentals-course-concepts/content/en/)
+* [Android Developer Fundamentals Course – Practicals](https://google-developer-training.gitbooks.io/android-developer-fundamentals-course-practicals/content/en/)
 * [Android Programming Guide for Beginners](http://eduonix.com/offers/Android_ebook_free_offer.html) (PDF - need email confirmation)
 * [Android Programming Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/android) ([PDF](https://www.syncfusion.com/Account/Logon?ReturnUrl=%2fresources%2ftechportal%2febooks%2fandroid), [Kindle](https://www.syncfusion.com/Account/Logon?ReturnUrl=%2fresources%2ftechportal%2febooks%2fandroid)) *(Just fill the fields with any values)*
 * [CodePath Android Cliffnotes](https://github.com/codepath/android_guides/wiki)
@@ -1027,7 +1029,7 @@
 * [Getting Started with Erlang User's Guide](http://www.erlang.org/doc/getting_started/users_guide.html) (HTML)
 * [Learn You Some Erlang For Great Good](http://learnyousomeerlang.com) - Frederic Trottier-Hebert
 * [Making reliable distributed systems in the presence of software errors](http://www.erlang.org/download/armstrong_thesis_2003.pdf) - Joe Armstrong (PDF)
-* [Stuff Goes Bad: Erlang in Anger](https://s3.amazonaws.com/erlang-in-anger/text.v1.0.3.pdf) - Fred Herbert (PDF)
+* [Stuff Goes Bad: Erlang in Anger](https://www.erlang-in-anger.com) - Fred Herbert (PDF)
 
 
 ### ESP8266
@@ -1157,7 +1159,7 @@
 
 * [A Gentle Introduction to Haskell](https://www.haskell.org/tutorial/)
 * [Anatomy of Programming Languages](http://www.cs.utexas.edu/~wcook/anatomy/) - William R. Cook
-* [Beautiful Code, Compelling Evidence](http://vis.renci.org/jeff/2009/01/16/beautiful-code-compelling-evidence/) (PDF)
+* [Beautiful Code, Compelling Evidence](http://www.renci.org/wp-content/pub/tutorials/BeautifulCode.pdf) (PDF)
 * [Exploring Generic Haskell](http://www.andres-loeh.de/ExploringGH.pdf) - Andres Löh (PDF)
 * [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com)
 * [Haskell and Yesod](http://www.yesodweb.com/book-1.2)
@@ -1631,12 +1633,6 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [OpenSCAD User Manual](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual)
 
 
-### Parrot / Perl 6
-
-* [Perl 6 Programming](https://en.wikibooks.org/wiki/Perl_6_Programming)
-* [Using Perl 6](https://github.com/perl6/book/) (work in progress)
-
-
 ### PC-BSD
 
 * [PC-BSD® Users Handbook](http://web.pcbsd.org/docs/)
@@ -1665,6 +1661,13 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [The DBIx-Class Book](https://github.com/castaway/dbix-class-book)
 * [The PDL Book](http://sourceforge.net/projects/pdl/files/PDL_2013/PDL-Book/PDL-Book-20130322.pdf/download) (PDF)
 * [Web Client Programming with Perl](http://www.oreilly.com/openbook/webclient/)
+
+
+### Perl 6 / Rakudo
+
+* [Perl 6 Introduction](http://perl6intro.com)
+* [Perl 6 Programming](https://en.wikibooks.org/wiki/Perl_6_Programming)
+* [Using Perl 6](https://github.com/perl6/book/) (work in progress)
 
 
 ### PHP
@@ -1781,6 +1784,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [A Whirlwind Tour of Python](http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf) - Jake VanderPlas (PDF) [(EPUB, MOBI)](http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp?download=yes)
 * [Automate the Boring Stuff](http://automatetheboringstuff.com/chapter0/) - Al Sweigart
 * [Biopython](http://biopython.org/DIST/docs/tutorial/Tutorial.pdf) (PDF)
+* [Build applications in Python the antitextbook](http://github.com/thewhitetulip/build-app-with-python-antitextbook) (3.x) (HTML, PDF, EPUB, Mobi)
 * [Building Skills in Object-Oriented Design (Python)](http://www.itmaybeahack.com/book/oodesign-python-2.1/latex/BuildingSkillsinOODesign.pdf) (PDF) (2.1.1)
 * [Building Skills in Python](http://www.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf) (PDF) (2.6)
 * [Code Like a Pythonista: Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
@@ -1862,6 +1866,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.5.x/django.pdf) (PDF) (1.5)
 * [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.7.x/django.pdf) (PDF) (1.7)
 * [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.9.x/django.pdf) (PDF) (1.9)
+* [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.10.x/django.pdf) (PDF) (1.10)
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
 * [Effective Django](http://www.effectivedjango.com) (1.5)
 * [Mastering Django](http://masteringdjango.com) (1.8)
@@ -1907,6 +1912,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Cookbook for R](http://www.cookbook-r.com) - Winston Chang
 * [Introduction to Probability and Statistics Using R](http://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf) - G. Jay Kerns (PDF)
 * [Learning Statistics with R](http://health.adelaide.edu.au/psychology/ccs/teaching/lsr) - Daniel Navarro
+* [ModernDive](https://ismayc.github.io/moderndiver-book/) - Chester Ismay and Albert Y. Kim
 * [Practical Regression and Anova using R](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) - Julian J. Faraway (PDF)
 * [R for Data Science](http://r4ds.had.co.nz) - Garrett Grolemund and Hadley Wickham
 * [R for Spatial Analysis](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/spatialEpiBook.pdf) (PDF)
@@ -2105,7 +2111,6 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 * [A Primer on SQL, Second Edition](https://leanpub.com/aprimeronsql)
 * [Developing Time-Oriented Database Applications in SQL](http://www.cs.arizona.edu/people/rts/publications.html)
-* [Learn SQL The Hard Way](http://sql.learncodethehardway.org)
 * [SQL For Web Nerds](http://philip.greenspun.com/sql/)
 * [Use The Index, Luke!: A Guide To SQL Database Performance](http://use-the-index-luke.com)
 

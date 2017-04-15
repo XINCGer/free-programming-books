@@ -21,7 +21,6 @@
 * [Facebook Hackercup](https://www.facebook.com/hackercup)
 * [HackerEarth](https://www.hackerearth.com)
 * [Hackerrank](https://www.hackerrank.com)
-* [Hello World Open](https://helloworldopen.com)
 * [Internet Problem Solving Contest](http://ipsc.ksp.sk)
 * [Just another Golf Coding](http://jagc.org)
 * [Kattis](https://open.kattis.com)
@@ -38,6 +37,7 @@
 
 ### Problem Sets
 
+* [500 Data structures and algorithms interview questions and their solutions in C++](https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions-in-C%2B%2B)
 * [A2 Online Judge](https://a2oj.com/ps)
 * [Advent Of Code](http://adventofcode.com)
 * [Anarchy Golf](http://golf.shinh.org)
