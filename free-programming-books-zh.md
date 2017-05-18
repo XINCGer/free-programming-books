@@ -94,6 +94,9 @@
 
 * [PostgreSQL 8.2.3 中文文档](http://works.jinbuguo.com/postgresql/menu823/index.html)
 * [PostgreSQL 9.3.1 中文文档](http://www.postgres.cn/docs/9.3/index.html)
+* [PostgreSQL 9.4.4 中文文档](http://www.postgres.cn/docs/9.4/index.html)
+* [PostgreSQL 9.5.3 中文文档](http://www.postgres.cn/docs/9.5/index.html)
+* [PostgreSQL 9.6.0 中文文档](http://www.postgres.cn/docs/9.6/index.html)
 
 
 ### Web
@@ -278,6 +281,7 @@
 
 ### 计算机图形学
 
+* [LearnOpenGL CN](https://learnopengl-cn.github.io)
 * [OpenGL 教程](https://github.com/zilongshanren/opengl-tutorials)
 
 
@@ -623,7 +627,9 @@
 * [Rails 风格指南](https://github.com/JuanitoFatas/rails-style-guide/blob/master/README-zhCN.md)
 * [Ruby on Rails Tutorial 原书第 2 版](http://railstutorial-china.org)
 * [Ruby on Rails 实战圣经](https://ihower.tw/rails4/)
+* [Ruby on Rails 指南](http://guides.ruby-china.org)
 * [Ruby 风格指南](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md)
+* [Sinatra](http://www.sinatrarb.com/intro-zh.html)
 * [笨方法学 Ruby](http://lrthw.github.io)
 
 
