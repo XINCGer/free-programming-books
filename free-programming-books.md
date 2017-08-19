@@ -217,6 +217,7 @@
 * [Microsoft Press: Free E-Books](https://mva.microsoft.com/ebooks)
 * [Microsoft Technologies 1, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, Office365, etc. collection by Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/27/large-collection-of-free-microsoft-ebooks-for-you-including-sharepoint-visual-studio-windows-phone-windows-8-office-365-office-2010-sql-server-2012-azure-and-more/)
 * [Microsoft Technologies 2, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, etc. collection by Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/30/another-large-collection-of-free-microsoft-ebooks-and-resource-kits-for-you-including-sharepoint-2013-office-2013-office-365-duet-2-0-azure-cloud-windows-phone-lync-dynamics-crm-and-more/)
+* [Microsoft Technologies 3, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, etc. collection by Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2017/07/11/largest-free-microsoft-ebook-giveaway-im-giving-away-millions-of-free-microsoft-ebooks-again-including-windows-10-office-365-office-2016-power-bi-azure-windows-8-1-office-2013-sharepo/)
 * [O'Reilly's Commons](http://commons.oreilly.com/wiki/index.php/O%27Reilly_Commons)
 * [O'Reilly's Open Books Project](http://www.oreilly.com/openbook/)
 * [Papers we love](https://github.com/papers-we-love/papers-we-love)
@@ -308,7 +309,7 @@
 
 #### Competitive Programming
 
-* [Competitive Programming, 1st Edition](https://sites.google.com/site/stevenhalim/) (PDF)
+* [Competitive Programming, 1st Edition](https://cpbook.net/#CP1details) (PDF)
 
 
 #### Compiler Design
@@ -459,7 +460,7 @@
 * [Come, Let's Play: Scenario-Based Programming Using Live Sequence Charts](http://www.wisdom.weizmann.ac.il/~playbook/)
 * [Communicating Sequential Processes](http://www.usingcsp.com/cspbook.pdf) - Tony Hoare (PDF)
 * [Computer Musings](http://scpd.stanford.edu/knuth/index.jsp) (lectures by Donald Knuth)
-* [Confessions of an Unintentional CTO: Lessons in Growing a Web App](https://www.jackkinsella.ie/books/confessions_of_an_unintentional_cto) - Jack Kinsella
+* [Confessions of an Unintentional CTO: Lessons in Growing a Web App](http://www.jackkinsella.ie/books/confessions_of_an_unintentional_cto) - Jack Kinsella
 * [Continuous Delivery and DevOps: A Quickstart guide](https://www.packtpub.com/packt/free-ebook/devops-quickstart) - Paul Swartout, Packt. (Just fill the fields with any values)
 * [CS For All](https://www.cs.hmc.edu/csforall/)
 * [Culture \& Empire: Digital Revolution](http://hintjens.com/books) (PDF)
@@ -489,7 +490,7 @@
 * [IRPF90 Fortran code generator](https://www.gitbook.com/book/scemama/irpf90/details) - Anthony Scemama
 * [Learn to Program](https://pine.fm/LearnToProgram/)
 * [Learning 30 Technologies in 30 Days: A Developer Challenge](https://blog.openshift.com/learning-30-technologies-in-30-days-a-developer-challenge/) - Shekhar Gulati
-* [Learning Docker](https://www.packtpub.com/packt/free-ebook/learning-docker) - Pethuru Raj, Jeeva S. Chelladhurai & Vinod Singh, Packt. (Just fill the fields with any values) 
+* [Learning Docker](https://www.packtpub.com/packt/free-ebook/learning-docker) - Pethuru Raj, Jeeva S. Chelladhurai & Vinod Singh, Packt. (Just fill the fields with any values)
 * [Linked Data Patterns: A pattern catalogue for modelling, publishing, and consuming Linked Data](http://patterns.dataincubator.org/book/) - Leigh Dodds, Ian Davis
 * [Magic Ink: Information Software and The Graphical Interface](http://worrydream.com/#!/MagicInk) - Bret Victor
 * [Mastering Bitcoin - Unlocking digital currencies](https://github.com/bitcoinbook/bitcoinbook) - Andreas M. Antonopoulos
@@ -963,7 +964,6 @@
 
 * [CoffeeScript Cookbook](https://coffeescript-cookbook.github.io)
 * [CoffeeScript Ristretto](https://leanpub.com/coffeescript-ristretto/read) - Reginald Braithwaite
-* [Hard Rock CoffeeScript](http://hardrockcoffeescript.org)
 * [Smooth CoffeeScript](http://autotelicum.github.io/Smooth-CoffeeScript/SmoothCoffeeScript.html)
 * [The Little Book on CoffeeScript](http://arcturo.github.io/library/coffeescript/)
 
@@ -1253,8 +1253,8 @@
 
 #### Bootstrap
 
-* [Twitter Bootstrap 3 Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/twitterbootstrap3) (PDF, Kindle) *(Just fill the fields with any values)*
-* [Twitter Bootstrap Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/twitterbootstrap) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Twitter Bootstrap 3 Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/twitterbootstrap3) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Twitter Bootstrap Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/twitterbootstrap) (PDF, Kindle) *(Just fill the fields with any values)*
 
 
 #### HTTP
@@ -1322,10 +1322,10 @@
 * [Java Language and Virtual Machine Specifications](https://docs.oracle.com/javase/specs/) - James Gosling, et al
 * [Java Programming for Kids](https://yfain.github.io/Java4Kids/) - Yakov Fain
 * [Java: The Legend](https://www.oreilly.com/programming/free/java-the-legend.csp) - Ben Evans *(Just fill the fields with any values)*
-* [Learning Java (4th Edition)](http://chimera.labs.oreilly.com/books/1234000001805/index.html) - Patrick Niemeyer and Daniel Leuck 
-* [Microservices for Java Developers](http://www.oreilly.com/programming/free/microservices-for-java-developers.csp) - Christian Posta *(Just fill the fields with any values)* 
+* [Learning Java (4th Edition)](http://chimera.labs.oreilly.com/books/1234000001805/index.html) - Patrick Niemeyer and Daniel Leuck
+* [Microservices for Java Developers](http://www.oreilly.com/programming/free/microservices-for-java-developers.csp) - Christian Posta *(Just fill the fields with any values)*
 * [Modern Java EE Design Patterns](http://www.oreilly.com/programming/free/modern-java-ee-design-patterns.csp) - Markus Eisele *(Just fill the fields with any values)*
-* [Neural Network Development with Java](https://www.packtpub.com/packt/free-ebook/neural-networks-java) - Alan M. F. Souza and Fabio M. Soares *(Just fill the fields with any values)* 
+* [Neural Network Development with Java](https://www.packtpub.com/packt/free-ebook/neural-networks-java) - Alan M. F. Souza and Fabio M. Soares *(Just fill the fields with any values)*
 * [NIO Framework](http://nioframework.sourceforge.net/NIO_Paper.pdf) (PDF)
 * [Object-Oriented vs. Functional Programming](http://www.oreilly.com/programming/free/object-oriented-vs-functional-programming.csp) - Richard Warburton *(Just fill the fields with any values)*
 * [OOP - Learn Object Oriented Thinking & Programming](http://pub.bruckner.cz/titles/oop) - Rudolf Pecinovsky
@@ -1402,6 +1402,7 @@
 * [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/) - Addy Osmani
 * [Speaking JavaScript](http://speakingjs.com/es5/) - Dr. Axel Rauschmayer
 * [The JavaScript Tutorial](http://javascript.info)
+* [The JavaScript Way](https://github.com/bpesquet/thejsway) - Baptiste Pesquet
 * [The Problem with Native JavaScript APIs](http://chimera.labs.oreilly.com/books/1234000001655/index.html)
 * [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) - Nicholas C. Zakas
 * [Understanding JavaScript OOP](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html) *(Sorella)*
@@ -1418,6 +1419,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [An Introduction to libuv](https://nikhilm.github.io/uvbook/) - Nikhil Marathe  ([PDF](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.pdf) - [ePub](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.epub))
 * [JavaScript and Node FUNdamentals](https://web.archive.org/web/20150327025334/https://leanpub.com/jsfun/read) - Azat Mardanov
 * [Mixu's Node Book](http://book.mixu.net/node/)
+* [Node Documentation](https://nodejs.org/en/docs/)
 * [Node: Up and Running](http://chimera.labs.oreilly.com/books/1234000001808/index.html) - Tom Hughes-Croucher
 * [Node.js Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/nodejs) (PDF, Kindle) *(Just fill the fields with any values)*
 * [The Node Beginner Book](http://nodebeginner.org)
@@ -1925,6 +1927,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Effective Django](http://www.effectivedjango.com) (1.5)
 * [How to Tango With Django](http://www.tangowithdjango.com/book17/) (1.7)
 * [Test-Driven Web Development with Python](http://www.obeythetestinggoat.com/pages/book.html#toc) (1.8)
+* [The Django Book](https://djangobook.com/the-django-book/) (1.8 & 1.11)
 
 
 #### Flask
@@ -1995,6 +1998,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Raspberry Pi Cookbook for Python Programmers](https://www.packtpub.com/packt/free-ebook/python-raspberry-pi-cookbook) - Tim Cox, Packt. *(Just fill the fields with any values)*
 * [Raspberry Pi: Measure, Record, Explore](https://leanpub.com/RPiMRE)
 * [Raspberry Pi Users Guide](http://www.cs.unca.edu/~bruce/Fall14/360/RPiUsersGuide.pdf) - Eben Upton (PDF)
+* [The Official Raspberry Pi Project Book](https://www.raspberrypi.org/magpi-issues/Projects_Book_v1.pdf) (PDF)
 
 
 ### REBOL
