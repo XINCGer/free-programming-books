@@ -27,6 +27,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 + [Burmese](/free-programming-books-mm.md)
 + [Chinese](/free-programming-books-zh.md)
 + [Czech](/free-programming-books-cs.md)
++ [Dutch](/free-programming-books-nl.md)
 + [English](/free-programming-books.md)
 + [French](/free-programming-books-fr.md)
 + [German](/free-programming-books-de.md)
@@ -51,6 +52,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### Free Online Courses
 + [English](/free-courses-en.md)
++ [German](/free-courses-de.md)
 + [Russian](/free-courses-ru.md)
 
 
@@ -74,6 +76,7 @@ Free Podcasts and Screencasts:
 + [English](/free-podcasts-screencasts-en.md)
 + [Portuguese (Brazil)](/free-podcasts-screencasts-pt_BR.md)
 + [Russian](/free-podcasts-screencasts-ru.md)
++ [Swedish](/free-podcasts-screencasts-se.md)
 
 
 ### Programming Playgrounds
