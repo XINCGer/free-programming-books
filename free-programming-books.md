@@ -24,6 +24,7 @@
 * [COBOL](#cobol)
 * [CoffeeScript](#coffeescript)
 * [ColdFusion](#coldfusion)
+* [Component Pascal](#component-pascal)
 * [Cool](#cool)
 * [Coq](#coq)
 * [Crystal](#crystal)
@@ -225,6 +226,7 @@
 * [Papers we love](https://github.com/papers-we-love/papers-we-love)
 * [Red Gate Books](http://www.red-gate.com/community/books/index)
 * [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks/)
+* [TechBeamers.com](http://www.techbeamers.com)
 * [TechBooksForFree.com](http://www.techbooksforfree.com)
 * [The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 * [Theassayer.org](http://theassayer.org)
@@ -253,6 +255,7 @@
 * [Best of Smashing Magazine](http://anniversary.smashingmagazine.com/best-of-smashing-magazine.zip)
 * [Programming with gtkmm 3](https://developer.gnome.org/gtkmm-tutorial/stable/)
 * [Search User Interfaces](http://searchuserinterfaces.com/book/) - Marti A. Hearst
+* [The GLib/GTK+ Development Platform](https://people.gnome.org/~swilmet/glib-gtk-dev-platform.pdf) - Sébastien Wilmet (PDF)
 
 
 ### Language Agnostic
@@ -578,7 +581,6 @@
 * [How to Make a Computer Operating System ](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) (:construction: *in process*)
 * [How to write a simple operating system in assembly language](http://mikeos.sourceforge.net/write-your-own-os.html) - Mike Saunders (HTML)
 * [Operating Systems and Middleware](https://gustavus.edu/mcs/max/os-book/) (PDF and LaTeX)
-* [Operating Systems Concept 9th edition](http://codex.cs.yale.edu/avi/os-book/OS9/slide-dir/) - Avi Silberschatz, Peter Baer, Galvin Greg Gagne (PDF)
 * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) (PDF)
 * [Practical File System Design: The Be File System](http://www.nobius.org/~dbg/practical-file-system-design.pdf) - Dominic Giampaolo (PDF)
 * [Project Oberon: The Design of an Operating System, a Compiler, and a Computer](http://people.inf.ethz.ch/wirth/ProjectOberon/index.html) - Niklaus Wirth & Jürg Gutknecht (PDF)
@@ -985,6 +987,11 @@
 * [Learn CF in a Week](http://learncfinaweek.com)
 
 
+### Component Pascal
+
+* [Computing Fundamentals](http://www.cslab.pepperdine.edu/warford/ComputingFundamentals/) - Stan Warford (PDF)
+
+
 ### Cool
 
 * [CoolAid: The Cool 2013 Reference Manual](https://www.eecis.udel.edu/~cavazos/cisc672/docs/cool-manual.pdf) (PDF)
@@ -1339,7 +1346,6 @@
 * [Introduction to Programming in Java](http://introcs.cs.princeton.edu/java/home/) - Robert Sedgewick and Kevin Wayne
 * [Introduction to Programming Using Java](http://math.hws.edu/javanotes/) - David J. Eck
 * [JAAS in Action](https://www.gitbook.com/book/benoit74/jaas-in-action/details)
-* [Java: A Beginner's Guide](http://www.oracle.com/events/global/en/java-outreach/resources/java-a-beginners-guide-1720064.pdf) - Oracle (PDF)
 * [Java Application Development on Linux (2005)](https://ptgmedia.pearsoncmg.com/images/013143697X/downloads/013143697X_book.pdf) - Carl Albing and Michael Schwarz (PDF)
 * [Java Language and Virtual Machine Specifications](https://docs.oracle.com/javase/specs/) - James Gosling, et al
 * [Java Programming for Kids](https://yfain.github.io/Java4Kids/) - Yakov Fain
@@ -1348,7 +1354,6 @@
 * [Microservices for Java Developers](http://www.oreilly.com/programming/free/microservices-for-java-developers.csp) - Christian Posta *(Just fill the fields with any values)*
 * [Modern Java EE Design Patterns](http://www.oreilly.com/programming/free/modern-java-ee-design-patterns.csp) - Markus Eisele *(Just fill the fields with any values)*
 * [Neural Network Development with Java](https://www.packtpub.com/packt/free-ebook/neural-networks-java) - Alan M. F. Souza and Fabio M. Soares *(Just fill the fields with any values)*
-* [NIO Framework](http://nioframework.sourceforge.net/NIO_Paper.pdf) (PDF)
 * [Object-Oriented vs. Functional Programming](http://www.oreilly.com/programming/free/object-oriented-vs-functional-programming.csp) - Richard Warburton *(Just fill the fields with any values)*
 * [OOP - Learn Object Oriented Thinking & Programming](http://pub.bruckner.cz/titles/oop) - Rudolf Pecinovsky
 * [Open Data Structures (in Java)](http://opendatastructures.org/ods-java.pdf) - Pat Morin (PDF)
@@ -1656,7 +1661,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 * [Algorithms and Data-Structures](http://www.ethoberon.ethz.ch/WirthPubl/AD.pdf) - Niklaus Wirth (PDF)
 * [Object-Oriented Programming in Oberon-2](http://ssw.jku.at/Research/Books/Oberon2.pdf) - Hanspeter Mössenböck (PDF)
-* [Programming in Oberon](http://www.ethoberon.ethz.ch/WirthPubl/ProgInOberon.pdf) - Niklaus Wirth (PDF)
+* [Programming in Oberon](https://www.inf.ethz.ch/personal/wirth/ProgInOberonWR.pdf) - Niklaus Wirth (PDF)
 
 
 ### Objective-C
@@ -2188,7 +2193,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 ### Smalltalk
 
 * [Computer Programming using GNU Smalltalk](http://www.canol.info/books/computer_programming_using_gnu_smalltalk/) (PDF)
-* [Deep into Pharo](http://files.pharo.org/books/deep-into-pharo/)
+* [Deep into Pharo](http://www.deepintopharo.com)
 * [Dynamic Web Development with Seaside](http://book.seaside.st/book/table-of-contents) -  S. Ducasse, L. Renggli, C. D. Shaffer, R. Zaccone
 * [Numerical Methods with Pharo](http://files.pharo.org/books/numerical-methods/)
 * [Pharo by Example](http://pharobyexample.org) (Smalltalk Implementation and IDE)
