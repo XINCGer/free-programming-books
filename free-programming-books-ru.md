@@ -23,7 +23,11 @@
 * [HTML / CSS](#html--css)
   * [Bootstrap](#bootstrap)
 * [Java](#java)
+  * [Android](#android)
+  * [EasyMock](#easymock)
   * [Hibernate](#hibernate)
+  * [JDBC](#jdbc)
+  * [JUnit](#junit)
   * [Maven](#maven)
   * [Spring](#spring)
 * [JavaScript](#javascript)
@@ -197,8 +201,10 @@
 ### Haskell
 
 * [Developing Web Applications with Haskell and Yesod](https://bitbucket.org/darkus/yesod/downloads) - Майкл Сноймен
+* [Haskell: введение в функциональное программирование](https://wiki.nsunc.com/_export/html/haskell) - В.Н. Власов
 * [О Haskell по-человечески](https://www.ohaskell.guide) - Денис Шевченко
 * [Учебник по Haskell](http://anton-k.github.io/ru-haskell-book/book/home.html) - Антон Холомьёв
+* [Язык и библиотеки Haskell 98](http://www.haskell.ru) - Simon Peyton Jones
 
 
 ### HTML / CSS
@@ -217,6 +223,7 @@
 
 ### Java
 
+* [Java Basics](http://www.fandroid.info/tutorial-po-osnovam-yazyka-programmirovaniya-java-dlya-nachinayushhih/)
 * [Java Programming for Kids, Parents and Grandparents](http://myflex.org/books/java4kids/java4kids.htm) - Yakov Fain
 * [Руководство по Java Core](http://proselyte.net/tutorials/java-core) - Евгений Сулейманов
 * [Руководство по Servlets](http://proselyte.net/tutorials/servlets) - Евгений Сулейманов
@@ -227,6 +234,7 @@
 * [Учебник Java 8](https://urvanov.ru/2016/03/23/%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA-java-8) - Фёдор Урванов
 * [Учебник по Java 8](https://vertex-academy.com/tutorials/ru/java-8-uchebnik/) - Vertex Academy
 * [Учебник по Java 9](https://vertex-academy.com/tutorials/ru/java-9-uchebnik-teoriya-primery/) - Vertex Academy
+* [Язык Java 8](https://easyjava.ru/java/yazyk-java/)
 
 
 #### Android
@@ -235,28 +243,38 @@
 * [Уроки по Android](http://startandroid.ru/ru/uroki/vse-uroki-spiskom.html)
 
 
+#### EasyMock
+
+* [EasyMock 3](https://easyjava.ru/testirovanie/easymock/)
+
+
 #### Hibernate
 
+* [Hibernate](https://easyjava.ru/data/hibernate/)
 * [Руководство по Hibernate](http://proselyte.net/tutorials/hibernate-tutorial) - Евгений Сулейманов
 
 
 #### JDBC
 
+* [JDBC и Spring JDBC](https://easyjava.ru/data/jdbc/)
 * [Руководство по JDBC](http://proselyte.net/tutorials/jdbc) - Евгений Сулейманов
 
 
 #### JUnit
 
+* [JUnit 4](https://easyjava.ru/testirovanie/junit-2/)
 * [Руководство по JUnit](http://proselyte.net/tutorials/junit) - Евгений Сулейманов
 
 
 #### Maven
 
+* [Apache Maven](https://easyjava.ru/ekosistema/sredstva-sborki/apache-maven/)
 * [Руководство по Maven](http://proselyte.net/tutorials/maven) - Евгений Сулейманов
 
 
 #### Spring
 
+* [Spring Framework](https://easyjava.ru/spring/)
 * [Руководство по Spring](http://proselyte.net/tutorials/spring-tutorial-full-version) - Евгений Сулейманов
 
 
@@ -298,6 +316,7 @@
 
 #### React
 
+* [Путь к изучению React](https://leanpub.com/the-road-to-learn-react-russian) - Алексей Пыльцын (PDF, ePub, MOBI) *(Требуется аккаунт на Leanpub или действительный адрес электронной почты)*
 * [Руководство по React](https://metanit.com/web/react) - Евгений Попов
 * [Уроки по React](https://codedzen.ru/category/uroki/react)
 
@@ -470,11 +489,13 @@
 * [Работа с MySQL, MS SQL Server и Oracle в примерах](http://svyatoslav.biz/database_book/) - Святослав Куликов (PDF)
 * [Руководство по MS SQL Server 2017](https://metanit.com/sql/sqlserver) - Евгений Попов
 * [Руководство по SQL](http://proselyte.net/tutorials/sql) - Евгений Сулейманов
+* [Язык SQL. Базовый курс](https://postgrespro.ru/education/books/sqlprimer) (PDF)
 
 
 #### PostgreSQL
 
-* [PostgreSQL: Документация](https://postgrespro.ru/docs/postgresql) (PDF)
+* [PostgreSQL для начинающих](https://postgrespro.ru/education/books/introbook) (PDF)
+* [Документация](https://postgrespro.ru/docs/postgresql) (PDF)
 * [История о PostgreSQL](http://www.inp.nsk.su/~baldin/PostgreSQL/index.html) - Linux Format
 * [Работа с PostgreSQL - настройка и масштабирование](http://postgresql.leopard.in.ua) - А. Ю. Васильев
 
