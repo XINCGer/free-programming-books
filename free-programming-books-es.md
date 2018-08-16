@@ -41,6 +41,7 @@
 * [Ruby](#ruby)
   * [Ruby on Rails](#ruby-on-rails)
 * [Scala](#scala)
+* [Scratch](#scratch)
 * [SQL](#sql)
 * [SVG](#svg)
 
@@ -149,7 +150,7 @@
 
 ### Erlang
 
-* [Programación en Erlang](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Erlang) (WikiLibros)
+* [Programación en Erlang](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Erlang) - WikiLibros
 
 
 ### Emacs
@@ -242,7 +243,7 @@
 
 * [Bases de la programación en Bash](http://xinfo.sourceforge.net/documentos/bash-scripting/bash-script-2.0.html) (HTML)
 * [BASH Scripting Avanzado: Utilizando declare para definición de tipo](https://web.archive.org/web/20150307181233/http://library.originalhacker.org:80/biblioteca/articulo/ver/123) (descarga directa)
-* [El Manual de BASH Scripting Básico para Principiantes](https://es.wikibooks.org/wiki/El_Manual_de_BASH_Scripting_B%C3%A1sico_para_Principiantes) (WikiLibros)
+* [El Manual de BASH Scripting Básico para Principiantes](https://es.wikibooks.org/wiki/El_Manual_de_BASH_Scripting_B%C3%A1sico_para_Principiantes) - WikiLibros
 * [El manual del Administrador de Debian](https://debian-handbook.info/browse/es-ES/stable/) (HTML) [(PDF, ePub, Mobi)](https://debian-handbook.info/get/now/)
 
 
@@ -331,6 +332,11 @@
 
 * [Manual de Scala para programadores Java](http://www.scala-lang.org/docu/files/ScalaTutorial-es_ES.pdf) (PDF)
 * [Scala con Ejemplos](https://github.com/ErunamoJAZZ/ScalaByExample-es) *(:construction: En proceso)*
+
+
+### Scratch
+
+* [Informática Creativa](https://github.com/programamos/GuiaScratch) (PDF)
 
 
 ### SQL
