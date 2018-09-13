@@ -223,6 +223,7 @@
 * [conceptf1.blogspot.com](http://conceptf1.blogspot.com/2013/11/list-of-freely-available-programming.html)
 * [Free Smalltalk Books, collected by Stéphane Ducasse](http://stephane.ducasse.free.fr/FreeBooks.html)
 * [Free Tech Books](http://www.freetechbooks.com)
+* [Goalkicker](https://goalkicker.com) - Programming Notes for Professionals books
 * [IBM Redbooks](http://www.redbooks.ibm.com)
 * [InfoQ Minibooks](http://www.infoq.com/minibooks/)
 * [InTech: Computer and Information Science](http://www.intechopen.com/subjects/computer-and-information-science)
@@ -457,6 +458,7 @@
 * [Linear Algebra by Jim Hefferon](http://joshua.smcvt.edu/linearalgebra) - Jim Hefferon
 * [Mathematical Logic - an Introduction](http://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
 * [Mathematics, MTH101A](http://home.iitk.ac.in/~psraj/mth101/) - P. Shunmugaraj, IIT Kanpur
+* [Non-Uniform Random Variate Generation](http://luc.devroye.org/rnbookindex.html) - Luc Devroye (PDF)
 * [Number Theory](https://github.com/holdenlee/number-theory) - Holden Lee MIT
 * [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php)
 * [Ordinary Differential Equations](https://en.wikibooks.org/wiki/Ordinary_Differential_Equations) - Wikibooks
@@ -1089,6 +1091,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Getting Started Guide](http://elixir-lang.org/getting-started/introduction.html) (HTML) [(PDF, MOBI, EPUB)](https://github.com/potatogopher/elixir-getting-started)
 * [Joy of Elixir](https://joyofelixir.com) - Ryan Bigg (HTML) - [Source](https://github.com/radar/joyofelixir) (:construction: *in process*)
 * [Learning Elixir](http://learningelixir.joekain.com) - Joseph Kain Blog (HTML)
+* [The Ultimate Guide To Elixir For Object-Oriented Programmers](http://www.binarywebpark.com/ultimate-guide-elixir-object-oriented-programmers) - Bruce Park (HTML)
 
 
 #### Ecto
@@ -1307,6 +1310,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [HTML5 Shoot 'em Up in an Afternoon](https://leanpub.com/html5shootemupinanafternoon/read) - Bryan Bibat
 * [Learn CSS Layout](http://learnlayout.com)
 * [Learn CSS Layout the pedantic way](http://book.mixu.net/css/)
+* [Learn to Code HTML & CSS](https://learn.shayhowe.com) - Shay Howe
 * [MaintainableCSS](http://maintainablecss.com)
 * [Pro HTML5 Programming]( http://apress.jensimmons.com/v5/pro-html5-programming/ch0.html)
 * [Scalable and Modular Architecture for CSS](https://smacss.com) - Jonathan Snook
@@ -1922,7 +1926,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * Drupal Framework
   * Drupal 7
     * [The Tiny Book of Rules](https://www.drupal.org/files/tiny-book-of-rules.pdf) (PDF)
-* [Hacking with PHP](http://www.hackingwithphp.com)
 * Laravel Framework
   * Laravel 3
     * [Laravel: Code Happy](http://daylerees.com/codehappy) - Dayle Rees
@@ -2241,6 +2244,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Ruby Programming](http://www.linuxtopia.org/online_books/programming_books/ruby_tutorial/)
 * [Ruby User's Guide](http://www.rubyist.net/~slagell/ruby/)
 * [Ruby Web Dev: The Other Way](https://leanpub.com/rwdtow/read) - Yevhen Kuzminov
+* [Rubyfu](https://rubyfu.net)
 * [The Bastards Book of Ruby](http://ruby.bastardsbook.com)
 * [The Unofficial Ruby Usage Guide (at Google)](http://www.caliban.org/ruby/rubyguide.shtml) - Ian Macdonald
 * [Why's (Poignant) Guide to Ruby](http://poignant.guide)
@@ -2296,6 +2300,8 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Effective Scala](https://twitter.github.io/effectivescala/)
 * [Essential Scala](http://underscore.io/books/essential-scala/) - Noel Welsh and Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
 * [Functional Programming for Mortals](https://leanpub.com/fpmortals/read) - Sam Halliday
+* [Functional Programming, Simplified (Scala edition)](https://alvinalexander.com/photos/functional-programming-simplied-free-pdf-preview) - Alvin Alexander (free preview (400 pages from 595), PDF)
+* [Hello, Scala](https://alvinalexander.com/photos/hello-scala-free-pdf-preview) - Alvin Alexander (free preview (120 pages from 257), PDF)
 * [Learning Scala in small bites](http://matt.might.net/articles/learning-scala-in-small-bites/)
 * [Learning Scalaz](http://eed3si9n.com/learning-scalaz/)
 * [Pro Scala: Monadic Design Patterns for the Web](https://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
