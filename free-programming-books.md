@@ -194,6 +194,7 @@
 * [Standard ML](#standard-ml)
 * [Subversion](#subversion)
 * [Swift](#swift)
+  * [Vapor](#vapor)
 * [Tcl](#tcl)
 * [Teradata](#teradata)
 * [Tizen](#tizen)
@@ -300,7 +301,6 @@
 * [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - Larry LIU Xinyu
 * [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) - Al Aho and Jeff Ullman
 * [Geometry Algorithms](http://geomalgorithms.com) - Dan Sunday
-* [Handbook of Graph Drawing and Visualization](https://cs.brown.edu/~rt/gdhandbook/)
 * [Lectures Notes on Algorithm Analysis and Computational Complexity (Fourth Edition)](https://larc.unt.edu/ian/books/free/license.html) - Ian Parberry (use form at bottom of license)
 * [LEDA: A Platform for Combinatorial and Geometric Computing](http://people.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html) - K. Mehlhorn et al.
 * [Linked List Basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf) (PDF)
@@ -420,6 +420,8 @@
 * [Machine Learning, Neural and Statistical Classification](http://www1.maths.leeds.ac.uk/~charles/statlog/)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 * [Probabilistic Models in the Study of Language](http://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html) (Draft, with R code)
+* [Reinforcement Learning: An Introduction (Draft)](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view) - Richard S. Sutton, Andrew G. Barto (PDF)
+* [Speech and Language Processing (3rd Edition Draft)](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) - Daniel Jurafsky, James H. Martin (PDF)
 * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, and Jerome Friedman
 * [The LION Way: Machine Learning plus Intelligent Optimization](http://www.e-booksdirectory.com/details.php?ebook=9575)
 * [The Python Game Book](http://thepythongamebook.com/en%3Astart)
@@ -629,7 +631,7 @@
 * [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html) - Paul E. McKenney
 * [Programming on Parallel Machines; GPU, Multicore, Clusters and More](http://heather.cs.ucdavis.edu/parprocbook) - Norm Matloff
 Kerridge (PDF) (email address *requested*, not required)
-* [The OpenCL Programming Book](https://www.fixstars.com/en/opencl/book/OpenCLProgrammingBook/contents/)
+* [The OpenCL Programming Book](https://us.fixstars.com/opencl/book/OpenCLProgrammingBook/contents/)
 * [Using Concurrency and Parallelism Effectively – I](http://bookboon.com/en/using-concurrency-and-parallelism-effectively-i-ebook) - Jon Kerridge (PDF) (email address *requested*, not required)
 * [Using Concurrency and Parallelism Effectively – II](http://bookboon.com/en/using-concurrency-and-parallelism-effectively-ii-ebook) - Jon
 
@@ -786,6 +788,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Android Developer Fundamentals Course – Practicals](https://google-developer-training.gitbooks.io/android-developer-fundamentals-course-practicals/content/en/)
 * [Android NDK Beginner's Guide - Second Edition](https://www.packtpub.com/packt/free-ebook/android-ndk-beginners-guide) - Sylvain Ratabouil, Packt. (email address *requested*, not required)
 * [Android NDK Game Development Cookbook](https://www.packtpub.com/packt/free-ebook/android-ndk-game-development) - Sergey Kosarevsky & Viktor Latypov, Packt. (email address *requested*, not required)
+* [Android Notes](https://goalkicker.com/AndroidBook) (PDF)
 * [Android Programming Guide for Beginners](http://eduonix.com/offers/Android_ebook_free_offer.html) (PDF - need email confirmation)
 * [Android Programming Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/android) ([PDF](https://www.syncfusion.com/Account/Logon?ReturnUrl=%2fresources%2ftechportal%2febooks%2fandroid), [Kindle](https://www.syncfusion.com/Account/Logon?ReturnUrl=%2fresources%2ftechportal%2febooks%2fandroid)) (email address *requested*, not required)
 * [CodePath Android Cliffnotes](https://github.com/codepath/android_guides/wiki)
@@ -864,6 +867,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) - M. Cooper (HTML)
 * [Bash Guide for Beginners (2008)](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) - M. Garrels (HTML)
+* [Bash Notes](https://goalkicker.com/BashBook) (PDF)
 * [Bash Notes for Professionals](http://books.goalkicker.com/BashBook/) - Compiled from StackOverflow documentation (3.x) (PDF)
 * [BASH Programming (2000)](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) - Mike G. (HTML)
 * [Bash Reference Manual](http://www.gnu.org/software/bash/manual/bashref.html) (HTML)
@@ -904,6 +908,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Build Your Own Lisp](http://www.buildyourownlisp.com)
 * [C Elements of Style](http://www.oualline.com/books.free/style/) - Steve Oualline
 * [C for Python Programmers - Carl Burch](http://www.toves.org/books/cpy/)
+* [C Notes](https://goalkicker.com/CBook) (PDF)
 * [C Programming](https://en.wikibooks.org/wiki/Programming%3AC) - Wikibooks
 * [C Programming Boot Camp - Paul Gribble](http://www.gribblelab.org/CBootCamp/)
 * [Deep C](http://www.slideshare.net/olvemaudal/deep-c)
@@ -925,6 +930,7 @@ Kerridge (PDF) (email address *requested*, not required)
 ### C Sharp
 
 * [C# Essentials](http://www.techotopia.com/index.php/C_Sharp_Essentials)
+* [C# Notes](https://goalkicker.com/CSharpBook) (PDF)
 * [C# Notes for Professionals](http://books.goalkicker.com/CSharpBook/) - Compiled from StackOverflow documentation (3.x)
 * [C# Programming](https://en.wikibooks.org/wiki/C_Sharp_Programming) - Wikibooks
 * [C# Yellow Book](http://www.csharpcourse.com) (intro to programming)
@@ -946,6 +952,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) - Editors: Bjarne Stroustrup, Herb Sutter
 * [C++ GUI Programming With Qt 3](http://www.computer-books.us/cpp_0010.php)
 * [C++ Language](http://www.cplusplus.com/doc/tutorial/)
+* [C++ Notes](https://goalkicker.com/CPlusPlusBook) (PDF)
 * [C++ Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) (email address *requested*, not required)
 * [C++ Today](http://www.oreilly.com/programming/free/c++-today.csp) (email address *requested*, not required)
 * [C++ Tricks](http://www.bordoon.com/cplusplus/book_wrapper.html)
@@ -1204,7 +1211,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Pro Git Reedited](https://leanpub.com/progitreedited/read) - Jon Forrest
 * [Ry's Git Tutorial](https://web.archive.org/web/20161121145226/http://rypress.com:80/tutorials/git/index) - Ryan Hodson
 * [Think Like (a) Git: A Guide for the Perplexed](http://think-like-a-git.net)
-* [Version Control by Example (Mercurial, Subversion, Verasity)](http://ericsink.com/vcbe/)
 
 
 ### Go
@@ -1275,7 +1281,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Parallel and Concurrent Programming in Haskell](http://chimera.labs.oreilly.com/books/1230000000929/index.html) -  Simon Marlow
 * [Real World Haskell](http://book.realworldhaskell.org)
 * [Speeding Through Haskell](http://www.sthaskell.com)
-* [The Haskell Road to Logic, Math and Programming](https://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf) (PDF)
 * [Yet Another Haskell Tutorial](http://hal3.name/docs/daume02yaht.pdf) (PDF)
 
 
@@ -1386,6 +1391,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Introduction to Programming in Java](http://introcs.cs.princeton.edu/java/home/) - Robert Sedgewick and Kevin Wayne
 * [Introduction to Programming Using Java](http://math.hws.edu/javanotes/) - David J. Eck
 * [Java Application Development on Linux (2005)](https://ptgmedia.pearsoncmg.com/images/013143697X/downloads/013143697X_book.pdf) - Carl Albing and Michael Schwarz (PDF)
+* [Java, Java, Java Object-Oriented Problem Solving](https://archive.org/details/JavaJavaJavaObject-orientedProblemSolving/page/n0) - R. Morelli and R.Walde
 * [Java Language and Virtual Machine Specifications](https://docs.oracle.com/javase/specs/) - James Gosling, et al
 * [Java Notes for Professionals](http://books.goalkicker.com/JavaBook/) - Compiled from StackOverflow documentation (3.x)
 * [Java Programming for Kids](https://yfain.github.io/Java4Kids/) - Yakov Fain
@@ -1497,7 +1503,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [AngularJS Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/angularjs) (PDF, Kindle) (email address *requested*, not required)
 * [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com)
 * [AngularJS with Ruby on Rails](http://angular-rails.com)
-* [Developing with Angular](https://leanpub.com/developing-with-angular/) - Denys Vuika *(Leanpub account or valid email requested)* (:construction: *in process*)
+* [Developing with Angular](https://leanpub.com/developing-with-angular/) - Denys Vuika *(Leanpub account or valid email requested)*
 * [Recipes with Angular.js](https://leanpub.com/recipes-with-angular-js/read) - Frederik Dietz
 * [Seven-Part Introduction to Angular](http://ngokevin.com/blog/angular-1/)
 * [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
@@ -1543,6 +1549,7 @@ Kerridge (PDF) (email address *requested*, not required)
 #### Elm
 
 * [Building a Live-Validating Signup Form in Elm](http://tech.noredink.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
+* [Elm Accelerated](https://accelerated.amimetic.co.uk) - James Porter
 * [Elm Tutorial](http://www.elm-tutorial.org)
 * [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial)
 
@@ -1552,7 +1559,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com)
 * [DockYard Ember.js Style Guide](https://github.com/DockYard/styleguides/blob/master/engineering/ember.md)
 * [Ember App with RailsApi](https://dockyard.com/blog/ember/2013/01/07/building-an-ember-app-with-rails-api-part-1)
-* [Ember.js - Getting started](http://emberjs.com/guides/getting-started/)
+* [Ember.js - Getting started](https://guides.emberjs.com/release/)
 * [Vic Ramon's Ember Tutorial](http://ember.vicramon.com)
 
 
@@ -1606,7 +1613,6 @@ Kerridge (PDF) (email address *requested*, not required)
   * [Part 2](http://www.joshfinnie.com/blog/reactjs-tutorial-part-2/)
   * [Part 3](http://www.joshfinnie.com/blog/reactjs-tutorial-part-3/)
 * [React with ASP.NET Core Tutorial](https://reactjs.net/getting-started/aspnetcore.html)
-* [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
 * [React.js Tutorial: Now is Your Time to Try It, Right in Your Browser](https://codegeekz.com/react-js-tutorial/)
 * [SurviveJS - Webpack and React](http://survivejs.com)
 * [The Road to learn React - Build a Hacker News App along the Way](https://leanpub.com/the-road-to-learn-react) - Robin Wieruch *(Leanpub account or valid email requested)* [markdown](https://github.com/the-road-to-learn-react/the-road-to-learn-react/tree/master/manuscript)  
@@ -1732,7 +1738,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Lua
 
-* [Lua 5.1 Reference Manual](http://www.lua.org/manual/5.1/)
+* [Lua 5.3 Reference Manual](http://www.lua.org/manual/5.3/)
 * [Lua Programming](https://en.wikibooks.org/wiki/Lua_Programming) - Wikibooks
 * [Programming in Lua (first edition)](https://www.lua.org/pil/contents.html)
 
@@ -1958,7 +1964,6 @@ Kerridge (PDF) (email address *requested*, not required)
     * [The Symfony Best practices 4.1.x](https://symfony.com/pdf/Symfony_best_practices_4.1.pdf) (PDF)
     * [The Symfony Book 4.1.x](https://symfony.com/doc/4.1/index.html)
     * [The Symfony Getting started 4.1.x](https://symfony.com/pdf/Symfony_getting_started_4.1.pdf) (PDF)
-    
 * [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium)
 * Zend Framework
   * [Using Zend Framework 3](https://olegkrivtsov.github.io/using-zend-framework-3-book/html/)
@@ -2097,7 +2102,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Python 3 Tutorial](https://github.com/Akuli/python-tutorial)
 * [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393/index.html) - David Beazley
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Jake VanderPlas (HTML, Jupyter Notebooks)
-* [Python for Econometrics](http://www.kevinsheppard.com/images/0/09/Python_introduction.pdf) - Kevin Sheppard (PDF) (2.7.5)
 * [Python for Everybody Exploring Data Using Python 3](http://py4e.com/book.php) - Charles Severance (PDF, EPUB, HTML)
   * [Python for Informatics: Exploring Information](http://www.pythonlearn.com/book.php) (2.7.5)
 * [Python for you and me](http://pymbook.readthedocs.org/en/latest/) (2.7.3)
@@ -2117,7 +2121,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [SICP in Python](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/) (3.2)
 * [Snake Wrangling For Kids](http://www.briggs.net.nz/snake-wrangling-for-kids.html) (3.x)
 * [Suporting Python 3: An In-Depth Guide](http://python3porting.com) (2.6 - 2.x & 3.1 - 3.x)
-* [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) (3.3 - 3.x)
+* [Test-Driven Web Development with Python](http://www.obeythetestinggoat.com/pages/book.html) - Harry Percival (3.3 - 3.x)
 * [Text Processing in Python](http://gnosis.cx/TPiP/) - David Mertz (2.3 - 2.x)
 * [The Coder's Apprentice: Learning Programming with Python 3](http://www.spronck.net/pythonbook/) - Pieter Spronck (PDF) (3.x)
 * [The Definitive Guide to Jython, Python for the Java Platform](http://www.jython.org/jythonbook/en/1.0) - Josh Juneau, Jim Baker, Victor Ng, Leo Soto, Frank Wierzbicki (2.5)
@@ -2141,7 +2145,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
 * [Effective Django](http://www.effectivedjango.com) (1.5)
 * [How to Tango With Django](http://www.tangowithdjango.com/book17/) (1.7)
-* [Test-Driven Web Development with Python](http://www.obeythetestinggoat.com/pages/book.html#toc) (1.8)
 * [The Django Book](https://djangobook.com/the-django-book/) (1.8 & 1.11)
 
 
@@ -2343,7 +2346,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [How to Design Programs](http://htdp.org)
 * [Scheme Tutorial](http://www.cs.hut.fi/Studies/T-93.210/schemetutorial/)
 * [Simply Scheme: Introducing Computer Science](http://www.cs.berkeley.edu/~bh/ss-toc2.html) - B. Harvey, M. Wright
-* [Sketchy LISP: An Introduction to Functional Programming in Scheme](http://www.bcl.hamilton.ie/~nmh/t3x.org/zzz/sketchy-lisp-3rd-ed-pdf.zip) - Nils Holm (ZIP)
 * [Teach Yourself Scheme in Fixnum Days](https://ds26gte.github.io/tyscheme/index-Z-H-1.html)
 * [The Scheme Programming Language: Edition 3](http://www.scheme.com/tspl3/) - [The Scheme Programming Language: Edition 4](http://www.scheme.com/tspl4/)
 * [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours) - Wikibooks
@@ -2452,6 +2454,12 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Using Swift with Cocoa and Objective-C](https://developer.apple.com/library/content//documentation/Swift/Conceptual/BuildingCocoaApps/index.html) (HTML) [(iBook)](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11)
 
 
+#### Vapor
+
+* [Vapor 3 Tutorial For Beginners](https://theswiftdev.com/2018/04/09/vapor-3-tutorial-for-beginners) - Tibor Bödecs
+* [Vapor Official Docs](https://docs.vapor.codes)
+
+
 ### Tcl
 
 * [Tcl Programming](https://en.wikibooks.org/wiki/Programming%3ATcl) - Richard.Suchenwirth, et. al.
@@ -2475,6 +2483,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### TypeScript
 
+* [TypeScript Accelerated](https://accelerated.amimetic.co.uk) - James Porter
 * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
 * [TypeScript for C# Programmers](http://www.infoq.com/minibooks/typescript-c-sharp-programmers)
 * [TypeScript Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/typescript) (PDF, Kindle) (email address *requested*, not required)
