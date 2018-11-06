@@ -16,6 +16,7 @@
 * [Haskell](#haskell)
 * [Javascript](#javascript)
   * [Angular.js](#angularjs)
+  * [Elm](#elm)
   * [Ember.js](#emberjs)
   * [Node.js](#nodejs)
   * [React.js](#reactjs)
@@ -143,6 +144,11 @@
 * [Angular Air](https://angularair.com) (podcast)
 
 
+#### Elm
+
+* [Elm Town](https://elmtown.audio) (podcast)
+
+
 #### Ember.js
 
 * [Ember Weekend](https://emberweekend.com/episodes) (podcast)
@@ -156,6 +162,7 @@
 #### React.js
 
 * [React Native Podcast](https://devchat.tv/react-native-radio) (podcast)
+* [React Podcast](https://reactpodcast.simplecast.fm) (podcast)
 * [ReactCasts](https://www.youtube.com/c/reactcasts) (screencast)
 
 
