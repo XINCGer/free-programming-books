@@ -133,6 +133,7 @@
 * [Lisp](#lisp)
 * [Livecode](#livecode)
 * [Lua](#lua)
+* [Make](#make)
 * [Markdown](#markdown)
 * [Mathematica](#mathematica)
 * [MATLAB](#matlab)
@@ -783,6 +784,7 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Agda
 
 * [Agda Tutorial](http://people.inf.elte.hu/divip/AgdaTutorial/Index.html)
+* [Programming Language Foundations in Agda](https://plfa.github.io) - Philip Wadler and Wen Kokke
 
 
 ### Alef
@@ -1768,6 +1770,11 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Programming in Lua (first edition)](https://www.lua.org/pil/contents.html)
 
 
+### Make
+
+* [Managing Projects with GNU Make](https://www.oreilly.com/openbook/make3/book/index.html) - Robert Mecklenburg
+
+
 ### Markdown
 
 * [Learn Markdown](https://www.gitbook.com/book/gitbookio/markdown/details) - Sammy P., Aaron O. (PDF) (EPUB) (MOBI)
@@ -2050,6 +2057,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems) - Werner Hett
 * [Prolog Techniques](http://bookboon.com/en/prolog-techniques-applications-of-prolog-ebook) - Attila Csenki, Bookboon. (email address *requested*, not required)
 * [Prolog Tutorial](http://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html)
+* [The Art of Prolog, Second Edition](https://mitpress.mit.edu/books/art-prolog-second-edition) -  Leon S. Sterling, Ehud Y. Shapiro (Open Access)
 * [The First 10 Prolog Programming Contests](https://dtai.cs.kuleuven.be/ppcbook/) - Bart Demoen, Phuong-Lan Nguyen, Tom Schrijvers, Remko Tronçon
 * [Warren's Abstract Machine: A Tutorial Reconstruction](http://wambook.sourceforge.net) - Hassan A¨it-Kaci
 
@@ -2162,7 +2170,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 #### Django
 
-* [Django 2.0 Tutorial for Beginners](https://djangoforbeginners.com) (2.0)
 * [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) (1.11)
 * [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.5.x/django.pdf) (PDF) (1.5)
 * [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.7.x/django.pdf) (PDF) (1.7)
