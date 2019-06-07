@@ -4,8 +4,10 @@
 * [C](#c)
 * [CSS](#css)
 * [Dart](#dart)
+* [Delphi](#delphi)
 * [Git](#git)
 * [Go](#go)
+* [Gulp](#gulp)
 * [Haskell](#haskell)
 * [HTML](#html)
 * [Ionic](#ionic)
@@ -16,6 +18,7 @@
 * [PHP](#php)
 * [Python](#python)
 * [Ruby](#ruby)
+* [Shell](#shell)
 * [Swift](#swift)
 
 
@@ -23,6 +26,7 @@
 
 * [Android Start - Curso Android - Java Kotlin e Flutter](https://www.udemy.com/android-start-curso-android-basico-java-kotlin-e-flutter/) - Buno de Libero Ferreira (Udemy)
 * [Desenvolvedor Android Iniciante](https://www.udemy.com/desenvolvedor-android-iniciante/) - Gabriel Ferrari, Adriano Sacardo (Udemy)
+* [Recriando o Status do Whatsapp para Android (Snapchat app)](https://www.udemy.com/status-whatsapp/) - ByLearn Cursos, Alisson Turini Fiorini Bolsoni (Udemy)
 
 
 ### C
@@ -40,6 +44,11 @@
 * [Curso de Dart Lang](https://www.udemy.com/curso-de-dart-lang-completo/) - Sthefane Soares (Udemy)
 
 
+### Delphi
+
+* [Aprenda Delphi e Lazarus do Zero - 100% Gratuito](https://www.udemy.com/aprenda-delphi-e-lazarus-do-zero/) - Marcos Fabricio Rosa (Udemy)
+
+
 ### Git
 
 * [Git e Github para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/) - Willian Justen de Vasconcellos (Udemy)
@@ -49,6 +58,11 @@
 ### Go
 
 * [Curso de Introdução a Linguagem Go (Golang)](https://www.youtube.com/playlist?list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) - EuProgramador (YouTube)
+
+
+### Gulp
+
+* [Curso de Gulp](https://www.udemy.com/curso-de-gulp/) - Fabio Ewerton (Udemy)
 
 
 ### Haskell
@@ -129,6 +143,11 @@
 * [Curso de Testes para Ruby on Rails com RSpec](https://www.udemy.com/curso-de-testes-ruby-com-rspec/) - Leonardo Scorza (Udemy)
 * [Ruby on Rails 5 na Prática](https://www.udemy.com/ruby-on-rails-5-na-pratica/) - Bruno Paulino (Udemy)
 * [Ruby Para Iniciantes](https://www.udemy.com/ruby-para-iniciantes/) - Bruno Paulino (Udemy)
+
+
+### Shell
+
+* [Conceitos de Programação em Shell Script](https://www.udemy.com/conceitos-de-programacao-em-shell-script/) - TemWeb (Udemy)
 
 
 ### Swift
