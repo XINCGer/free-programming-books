@@ -2,8 +2,10 @@
 
 * [Android](#android)
 * [C](#c)
+* [C Sharp](#c-sharp)
 * [CSS](#css)
 * [Dart](#dart)
+* [Database](#database)
 * [Delphi](#delphi)
 * [Git](#git)
 * [Go](#go)
@@ -14,9 +16,11 @@
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Kotlin](#kotlin)
+* [Markdown](#markdown)
 * [Node.js](#nodejs)
 * [PHP](#php)
 * [Python](#python)
+* [React](#react)
 * [Ruby](#ruby)
 * [Shell](#shell)
 * [Swift](#swift)
@@ -34,6 +38,15 @@
 * [Aprenda C e C++ - Fundamentos Para Lógica de Programação](https://www.udemy.com/c-e-c-fundamentos-para-logica-de-programacao/) - One Day Code (Udemy)
 
 
+### C Sharp
+
+* [C# e Windows Forms: Consultar CEP no WebService dos Correios](https://www.udemy.com/webservice-correios/) - Gilseone Moraes, Training4All Cursos (Udemy)
+* [C# e Windows Forms: Encurtando URLs com a API do Bitly](https://www.udemy.com/bitly-api/) - Gilseone Moraes, Training4All Cursos (Udemy)
+* [C# e Windows Forms: Utilizando Formulários MDI Parent](https://www.udemy.com/formularios-mdi/) - Gilseone Moraes, Training4All Cursos (Udemy)
+* [Manipulando Listas Genéricas em C#](https://www.udemy.com/listas-genericas-em-csharp/) - Gilseone Moraes, Training4All Cursos (Udemy)
+* [Testes unitários em C# com NUnit e Moq](https://www.udemy.com/testes-unitarios-em-csharp-com-nunit-e-moq/) - Leonardo Baraúna (Udemy)
+
+
 ### CSS
 
 * [Introdução à linguagem CSS](https://www.udemy.com/introducao-a-linguagem-css/) - Diego Mariano (Udemy)
@@ -42,6 +55,11 @@
 ### Dart
 
 * [Curso de Dart Lang](https://www.udemy.com/curso-de-dart-lang-completo/) - Sthefane Soares (Udemy)
+
+
+### Database
+
+* [Introdução ao MySQL e phpMyAdmin](https://www.udemy.com/mysql-phpmyadmin/) - Fernando Carmo, Mestres BI (Udemy)
 
 
 ### Delphi
@@ -85,12 +103,14 @@
 
 ### Java
 
+* [Curso Desenvolvedor Java com Jdbc,Jpa,Spring,Swing](https://www.udemy.com/curso-desenvolvedor-java-com-jdbc/) - Allan Almeida de Araujo (Udemy)
 * [Desenvolvedor Funcional com Java 8](https://www.udemy.com/desenvolvedor-funcional-com-java-8/) - Fernando Franzini (Udemy)
 * [Eclipse IDE para Desenvolvedores Java](https://www.udemy.com/eclipse-ide-para-desenvolvedores-java/) - Fernando Franzini (Udemy)
 * [Intellij IDE para Desenvolvedores Java](https://www.udemy.com/intellij-ide-para-desenvolvedores-java/) - Fernando Franzini (Udemy)
 * [Introdução à Interfaces Gráficas em Java com o NetBeans](https://www.udemy.com/introducao-a-interface-grafica-em-java-com-o-netbeans/) - Cezar Augusto Crummenauer (Udemy)
 * [Introdução ao Java e Orientação a objetos](https://www.udemy.com/introducao-ao-java-e-orientacao-a-objetos/) - Helder Guimaraes Aragao (Udemy)
 * [Java SE - Polimorfismo](https://www.udemy.com/java-se-polimorfismo/) - Fernando Franzini (Udemy)
+* [Produtos Java - Especificações versus Proprietários](https://www.udemy.com/produtos-java-especificacoes-versus-proprietarios/) - Fernando Franzini (Udemy)
 * [Testes unitários com Java utilizando o Junit](https://www.udemy.com/testes-unidade-automaticos-software-junit/) - Gustavo Farias (Udemy)
 
 
@@ -105,16 +125,23 @@
 * [Desenvolvedor Kotlin Iniciante](https://www.udemy.com/desenvolvedor-kotlin-iniciante/) - Gabriel Ferrari, Adriano Sacardo (Udemy)
 
 
+### Markdown
+
+* [Aprenda Markdown](https://www.udemy.com/aprenda-markdown/) - Roberto Achar (Udemy)
+
+
 ### Node.js
 
 * [Criando APIs com NodeJs ](https://www.youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn) - Balta.io (YouTube)
 * [Curso básico de APIs com Nodejs + Express + Mongodb](https://www.udemy.com/curso-basico-de-apis-com-nodejs-express-mongodb/) - Diego Penteado (Udemy)
+* [Nanosserviços Serverless Orientados a Eventos](https://www.udemy.com/nanosservicos-serverless-orientados-a-eventos/) - Thales Minussi (Udemy)
 * [RESTful com Node.js e Restify](https://www.youtube.com/playlist?list=PLy5T05I_eQYO5Y3S3kVqBxQzkUNllPazF) - Codecasts (YouTube)
 
 
 ### PHP
 
 * [Boas práticas em PHP](https://www.udemy.com/boas-praticas-em-php/) - Diego Mariano (Udemy)
+* [Curso Básico de Bootstrap 4 , PHP e MySQL](https://www.udemy.com/curso-basico-de-bootstrap-4-php-e-mysql-gratis/) - Ricardo Milbrath Gonçalves (Udemy)
 * [Introdução à Criação de Sites Dinâmicos com PHP](https://www.udemy.com/criacao-de-paginas-de-internet-dinamicas-com-php-basico/) - Diego Mariano (Udemy)
 * [Introdução ao Laravel (5.3)](https://www.udemy.com/introducao-ao-laravel-53/) - Guilherme Ferreira (Udemy)
 * [Introdução ao PHP orientado a objetos](https://www.udemy.com/php-orientado-a-objetos/) - Diego Mariano (Udemy)
@@ -135,6 +162,11 @@
 * [Python 3 na Prática](https://www.udemy.com/python-3-na-pratica/) - João Batista (Udemy)
 * [Python 3 na Web com Django (Básico e Intermediário)](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/) - Gileno Alves Santa Cruz Filho (Udemy)
 * [Python para Iniciantes](https://www.udemy.com/python-para-iniciantes/) - Tiago Miguel (Udemy)
+
+
+### React
+
+* [React, Redux e integração de APIs](https://www.udemy.com/react-redux-e-integracao-de-apis/) - Nataniel Paiva (Udemy)
 
 
 ### Ruby
