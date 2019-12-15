@@ -7,6 +7,7 @@
 * [C Sharp](#c-sharp)
 * [C++](#c++)
 * [Database](#database)
+  * [SQL](#sql)
 * [Delphi](#delphi)
 * [Embedded](#embedded)
   * [Arduino](#arduino)
@@ -14,6 +15,7 @@
 * [Java](#Java)
 * [Javascript](#javascript)
 * [Machine Learning](#machine-learning)
+* [Mobile](#mobile)
 * [Networking](#networking)
 * [Pascal](#pascal)
 * [Programmazione](#programmazione)
@@ -26,6 +28,7 @@
   * [Git](#git)
   * [Maven](#maven)
 * [Web](#web)
+  * [Vue](#vue)
 * [Workshop](#workshop)  
 
 
@@ -65,6 +68,12 @@
 ### Database
 
 * [Basi di dati](https://www.youtube.com/playlist?list=PLgaOrAQwrg9JZs6dbDolNlShHFgpJSChj) (M. De Ghetto)
+* [Basi di Dati](https://www.youtube.com/playlist?list=PLAQopGWlIcyZ7CN1sefdnCusfoodLP931) (T. Catarci)
+
+
+#### SQL
+
+* [Corso SQL](https://www.youtube.com/playlist?list=PLE555DB6188C967AC) (F. Camuso)
 
 
 ### Delphi
@@ -105,6 +114,11 @@
 ### Machine Learning
 
 * [Machine Learning in italiano col Pollo Watzlawick](https://www.youtube.com/playlist?list=PLa-sizbCyh93c0nSPAb8k5ZZeOq4SBIl9) (P. Savastano) 
+
+
+### Mobile
+
+* [DART & FLUTTER (per il mobile)](https://www.youtube.com/playlist?list=PL0qAPtx8YtJftaLnIroe7q9udsc9_qg6x) (F. Camuso)
 
 
 ### Networking
@@ -169,6 +183,11 @@
 ### Web
 
 * [Progettazione di applicazioni Web](https://www.youtube.com/playlist?list=PLE0AA1735F10543A6) - F. Corno e S. Di Carlo (Politecnico di Torino)
+
+
+#### Vue
+
+* [Vue 2.x (corso base)](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdUH44fvkzVxy9waP23I_bE) (F. Camuso)
 
 
 ### Workshop
