@@ -84,7 +84,11 @@
 * [Programming Mobile Applications for Android Handheld Systems pt. 2](https://www.coursera.org/course/androidpart2)
 * [Programming Mobile Services for Android Handheld Systems: Communication](https://www.coursera.org/course/posacommunication)
 * [Programming Mobile Services for Android Handheld Systems: Concurrency](https://www.coursera.org/course/posaconcurrency)
-* [Udacity Android Course Catalog](https://www.udacity.com/courses#!/android#!/android)
+* [Udacity Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)
+* [Udacity Android Basics: Multiscreen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)
+* [Udacity Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)
+* [Udacity Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
+* [Udacity Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
 
 
 ### Angular
@@ -120,7 +124,6 @@
     * [Advanced C++](https://www.edx.org/course/advanced-c-plus-plus-1)
     * [Intermediate C++](https://www.edx.org/course/intermediate-c-plus-plus-1)
     * [Introduction to C++](https://www.edx.org/course/introduction-c-plus-plus-1)
-   
 
 
 ### Clojure
@@ -289,6 +292,7 @@
 * [Machine Learning Mini Bootcamp](https://lambdaschool.com/free-course-machine-learning/)
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book)
 * [Principles of Machine Learning By Microsoft](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-6)
+* [PyTorch tutorials by PyTorch.org](https://pytorch.org/tutorials)
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 
@@ -432,7 +436,7 @@
 
 ### Theory
 
-* [Automata Theory](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/about)
+* [Automata Theory](https://online.stanford.edu/courses/soe-ycsautomata-automata-theory)
 * [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) (Udacity)
 
 
@@ -447,7 +451,6 @@
 * [SOC Verification Using SystemVerilog](http://verificationexcellence.in/online-courses/soc-verification-using-systemverilog)
 * [SystemVerilog - Learn basics of SystemVerilog for Hardware Verification](https://verificationexcellence.teachable.com/p/learn-systemverilog)
 * [SystemVerilog based UVM Methodology - Learn to build UVM based Testbenches in SystemVerilog](https://verificationexcellence.teachable.com/p/learn-ovm-uvm)
-* [Verilog Hardware Description Language - An Introductory Course](http://vol.verilog.com/VOL/main.htm)
 
 
 ### Web Development
