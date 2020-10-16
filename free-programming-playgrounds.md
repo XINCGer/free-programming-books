@@ -4,13 +4,17 @@
 * [ClojureScript](#clojurescript)
 * [Crystal](#crystal)
 * [CSS](#css)
+* [Dart](#dart)
+* [Docker](#docker)
 * [Elm](#elm)
+* [Flutter](#flutter)
 * [Go](#go)
 * [Haskell](#haskell)
 * [Ionic](#ionic)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Kotlin](#kotlin)
+* [Kubernetes](#kubernetes)
 * [.Net](#dotnet)
 * [Node.js](#nodejs)
 * [OCaml](#ocaml)
@@ -19,6 +23,7 @@
 * [Python](#python)
 * [R](#r)
 * [React](#react)
+* [Redis](#redis)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [RxJS](#rxjs)
@@ -54,9 +59,25 @@
 * [Flexy Boxes](http://the-echoplex.net/flexyboxes/)
 
 
+### Dart
+
+* [DartPad](https://dartpad.dev)
+
+
+### Docker
+
+* [Katakoda](https://www.katacoda.com/courses/docker/playground)
+* [Play with Docker](https://labs.play-with-docker.com)
+
+
 ### Elm
 
 * [Ellie](https://ellie-app.com)
+
+
+### Flutter
+
+* [Codepen](https://codepen.io/topic/flutter/templates)
 
 
 ### Go
@@ -94,6 +115,12 @@
 * [Kotlin](https://play.kotlinlang.org)
 
 
+### Kubernetes
+
+* [Katakoda](https://www.katacoda.com/courses/kubernetes/playground)
+* [Play with Kubernetes](https://labs.play-with-k8s.com)
+
+
 ### <a name="dotnet"></a>.NET
 
 * [.NET Fiddle](https://dotnetfiddle.net)
@@ -124,6 +151,9 @@
 ### Python
 
 * [Codepad](http://codepad.org)
+* [Python Trinket](https://trinket.io/python)
+* [Python.org Shell](https://www.python.org/shell)
+* [Repl.it - NiceDualPoin](https://repl.it/repls/NiceDualPoint#main.py)
 
 
 ### R
@@ -134,7 +164,13 @@
 ### React
 
 * [CodeSandbox.io](https://codesandbox.io)
+* [jscomplete](https://jscomplete.com/playground)
 * [StackBlitz](https://stackblitz.com/fork/react)
+
+
+### Redis
+
+* [Try Redis](https://try.redis.io)
 
 
 ### Ruby
@@ -168,6 +204,7 @@
 ### Svelte
 
 * [StackBlitz](https://stackblitz.com/fork/svelte)
+* [Svelte REPL](https://svelte.dev/repl)
 
 
 ### Swift

@@ -49,6 +49,7 @@
   * [CakePHP](#cakephp)
   * [CodeIgniter](#codeigniter)
   * [Laravel](#laravel)
+  * [Symfony](#symfony)
 * [Python](#python)
   * [Django](#django)
 * [R](#r)
@@ -63,6 +64,7 @@
 * [Smalltalk](#smalltalk)
 * [SQL](#sql)
   * [PostgreSQL](#postgresql)
+* [Swift](#swift)
 * [TypeScript](#typescript)
 * [Unix](#unix)
 * [Vim](#vim)
@@ -144,6 +146,7 @@
 
 ### C Sharp
 
+* [Design Patterns via C#](http://itvdn.com/ru/patterns) - Александр Шевчук, Дмитрий Охрименко, Андрей Касьянов (PDF) *(Требуется аккаунт)*
 * [Паттерны проектирования в C# и .NET](https://metanit.com/sharp/patterns) - Евгений Попов
 * [Полное руководство по языку программирования С# 7.0 и платформе .NET 4.7](https://metanit.com/sharp/tutorial) - Евгений Попов
 * [Сетевое программирование в С# и .NET](https://metanit.com/sharp/net) - Евгений Попов
@@ -411,6 +414,11 @@
 * [Перевод документации](http://laravel.su/docs)
 
 
+#### Symfony
+
+* [Symfony 5. Быстрый старт](https://symfony.com/doc/5.0/the-fast-track/ru/index.html)
+
+
 ### Python
 
 * [Problem Solving with Algorithms and Data Structures](https://aliev.github.io/runestone)
@@ -509,6 +517,12 @@
 * [Документация](https://postgrespro.ru/docs/postgresql) (PDF)
 * [История о PostgreSQL](http://www.inp.nsk.su/~baldin/PostgreSQL/index.html) - Linux Format
 * [Работа с PostgreSQL - настройка и масштабирование](http://postgresql.leopard.in.ua) - А. Ю. Васильев
+
+
+### Swift
+
+* [Documentation](https://swift.org/documentation)
+* [Документация и туториалы](https://swiftbook.ru)
 
 
 ### TypeScript

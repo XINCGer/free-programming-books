@@ -1,6 +1,7 @@
 ### Index
 
 * [Ada](#ada)
+* [Android](#android)
 * [Bash](#bash)
 * [C](#c)
 * [C#](#c-sharp)
@@ -28,6 +29,7 @@
 * [PHP](#php)
 * [Python](#python)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [Scala](#scala)
 * [SQL](#sql)
 * [Vim](#vim)
@@ -36,6 +38,11 @@
 ### Ada
 
 * [Introduction to Ada](https://learn.adacore.com/courses/intro-to-ada/index.html)
+
+
+### Android
+
+* [Javatpoint Android Tutorial](https://www.javatpoint.com/android-tutorial)
 
 
 ### Bash
@@ -51,6 +58,7 @@
 
 ### C Sharp
 
+* [Codeasy](https://codeasy.net/course/csharp_elementary)
 * [Learn C#](http://www.learncs.org)
 
 
@@ -116,6 +124,7 @@
 * [CSS Diner](http://flukeout.github.io)
 * [Flexbox Defense](http://flexboxdefense.com)
 * [Flexbox Froggy](http://flexboxfroggy.com)
+* [Grid Garden](https://cssgridgarden.com)
 * [Learn by doing beginner projects](https://dash.generalassemb.ly)
 * [Learn HTML & CSS interactively](https://www.codecademy.com/learn/web)
 * [Prototyping a professional website](https://www.codecademy.com/learn/make-a-website)
@@ -217,6 +226,11 @@
 * [Ruby Koans](http://www.rubykoans.com)
 * [The Odin Project](http://www.theodinproject.com)
 * [Try Ruby](http://tryruby.org)
+
+
+### Rust
+
+* [Rustlings](https://github.com/rust-lang/rustlings)
 
 
 ### Scala

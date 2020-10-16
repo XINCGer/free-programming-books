@@ -28,6 +28,7 @@
 * [Livecode](#livecode)
 * [Perl](#perl)
 * [PHP](#php)
+  * [Symfony](#symfony)
 * [Python](#python)
   * [Django](#django)
 * [Ruby](#ruby)
@@ -39,9 +40,7 @@
 
 #### Algoritmi e Strutture Dati
 
-* [Algoritmi e Strutture Dati - Astrazione, Progetto e Realizzazione](http://www.astromoodle.altervista.org/download/libro-asd.pdf) - M. Vento e P. Foggia (PDF)
 * [Appunti di Analisi e Progettazione di Algoritmi](https://www.sci.unich.it/~acciaro/corsoASD.pdf) - V. Acciaro T. Roselli e V. Marengo (PDF)
-* [Dispense del Corso di Algoritmi e Strutture Dati](http://www.dmi.unict.it/nicosia/lectures/programmazione-scientifica/algo.pdf) (PDF)
 * [Progetto e Analisi di Algoritmi](http://bertoni.di.unimi.it/Algoritmi_e_Strutture_Dati.pdf) - A. Bertoni e M. Goldwurm (PDF)
 
 
@@ -164,6 +163,7 @@
 * [Java 7](https://it.wikibooks.org/wiki/Java) - Wikibooks
 * [Java 9 e 10, la guida](https://www.html.it/guide/java-9-la-guida/) (HTML)
 * [Java Mattone dopo Mattone](http://www.digididattica.it/pluginfile.php/2127/mod_resource/content/1/javamattone.pdf) (PDF)
+* [Materiale extra online de "Il nuovo Java"](https://www.nuovojava.it/assets/download/nuovoJava-materiale_extra_online.pdf) - Claudio De Sio Cesari (PDF)
 * [Object Oriented && Java 5 (II Edizione)](http://www.claudiodesio.com/download/oo_&&_java_5.zip) - Claudio De Sio Cesari (ZIP)
 
 
@@ -213,6 +213,11 @@
 
 * [Guida PHP](http://www.html.it/guide/guida-php-di-base/?cref=development) (HTML)
 * [Manuale PHP](http://francescomuscolo.altervista.org/manuale_PHP.pdf) (PDF)
+
+
+#### Symfony
+
+* [Symfony 5: guida rapida](https://symfony.com/doc/5.0/the-fast-track/it/index.html)
 
 
 ### Python

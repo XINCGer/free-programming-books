@@ -1,4 +1,4 @@
-﻿### Index
+### Index
 
 * [Algorithms & Data Structures](#algorithms--data-structures)
 * [Android](#android)
@@ -14,6 +14,8 @@
 * [Data Science](#data-science)
 * [Databases](#databases)
 * [Deep Learning](#deep-learning)
+* [Docker](#docker)
+* [Game Development](#game-development)
 * [Git](#git)
 * [Go](#go)
 * [Haskell](#haskell)
@@ -22,11 +24,13 @@
 * [Java](#java)
 * [JavaScript](#javascript)
   * [Angular.js](#angularjs)
-  * [GraphQL](#graphql)
   * [jQuery](#jquery)
+  * [NodeJS](#nodejs)
   * [React](#react)
   * [Redux](#redux)
   * [Sails.js](#sailsjs)
+  * [Vue.js](#vuejs)
+* [Kubernetes](#kubernetes)
 * [Linux](#linux)
 * [Lua](#lua)
 * [Machine Learning](#machine-learning)
@@ -44,6 +48,7 @@
 * [Ruby](#ruby)
 * [Sails.js](#sailsjs)
 * [Scala](#scala)
+* [Security](#security)
 * [Software Engineering](#software-engineering)
 * [SQL](#sql)
 * [Swift](#swift)
@@ -57,6 +62,7 @@
 ### Algorithms & Data Structures
 
 * [Berkeley University CS 61B: Data Structures](http://datastructur.es/sp16/)
+* [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM) - William Fiset - (freeCodeCamp)
 * [IIT Bombay Foundation of Data Structures (CS213.1x)](https://courses.edx.org/courses/course-v1:IITBombayX+CS213.1x+1T2017/course/)
 * [MIT's Design and Analysis of Algorithms (Spring 2012)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2012) - Dana Moshkovitz, Bruce Tidor
 * [MIT's Design and Analysis of Algorithms (Spring 2015)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015) - Erik Demaine, Srini Devadas, Nancy Lynch
@@ -94,6 +100,7 @@
 ### Angular
 
 * [Angular Fast Crash Course](https://www.udemy.com/angular-fast-crash-course/) - Edwin Diaz, Coding Faculty Solutions (Udemy)
+* [Angular for Beginners](https://www.udemy.com/course/angular-for-beginners-course/) - Angular University (Udemy)
 
 
 ### Bash / Shell
@@ -105,6 +112,7 @@
 ### C
 
 * [C Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P)
+* [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) - Mike Dane - (freeCodeCamp)
 * [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#.VNsjDvmUcmQ)
 * [The Arduino Platform and C Programming](https://www.coursera.org/learn/arduino-platform)
 
@@ -112,12 +120,14 @@
 ### C Sharp
 
 * [C# 101](https://channel9.msdn.com/Series/CSharp-101) - Scott Hanselman, Kendra Havens Microsoft.
+* [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8) - Mike Dane - (freeCodeCamp)
 * [Learn how to program: C#](https://www.learnhowtoprogram.com/c) - Epicodus Inc.
 
 
 ### C++
 
 * [C++ Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoVZWSN-ze3VVtIfZfXwAGM)
+* [C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y) - Mike Dane - (freeCodeCamp)
 * [Google's C++ Course](https://developers.google.com/edu/c++/)
 * [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (MIT's opencourseware)
 * [LearnCpp.com C++ Tutorial](http://www.learncpp.com)
@@ -134,7 +144,7 @@
 
 ### Compilers
 
-* [Stanford's Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
+* [Stanford's Compilers](https://www.edx.org/course/compilers)
 
 
 ### Cuda
@@ -145,7 +155,9 @@
 ### Data Science
 
 * [Advanced Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/advanceddataminingwithweka/)
+* [Data Cleaning by Rachael Tatman at Kaggle](https://www.kaggle.com/learn/data-cleaning)
 * [Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/dataminingwithweka/)
+* [Data Visualization by Alexis Cook at Kaggle](https://www.kaggle.com/learn/data-visualization)
 * [Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-3)
 * [More Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/moredataminingwithweka/)
 * [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
@@ -161,12 +173,26 @@
 
 * [Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io)
 * [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu)
+* [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (coursera)
+* [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning) - Ryan Holbrook
 * [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu)
 * [Practical Deep Learning For Coders taught](http://www.fast.ai) - Jeremy Howard
 * [Practical Deep Learning for Coders, v3 (using fastai library)](https://course.fast.ai)
 * [Self-Paced Courses for Deep Learning](https://developer.nvidia.com/deep-learning-courses)
 * [Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/tutorial)
 * [What is Deep Learning](https://www.udacity.com/course/deep-learning--ud730) (Udacity)
+
+
+### Docker
+
+* [Docker Tutorial](https://www.tutorialspoint.com/docker/index.htm) - TutorialsPoint
+* [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo) - FreeCodeCamp
+* [Learn Docker, Container Runtimes, Builders and Registries](https://www.katacoda.com/courses/container-runtimes) - Katacoda
+
+
+### Game Development
+
+* [Unity Beginner Fundamentals](https://learn.unity.com/course/unity-beginner-fundamentals)(Unity Learn)
 
 
 ### Git
@@ -182,6 +208,8 @@
 
 * [A Tour Of Go](https://tour.golang.org/welcome/1)
 * [Go Tutorial](http://www.tutorialspoint.com/go/index.htm)
+* [Golang | Gin HTTP Framework](https://www.youtube.com/playlist?list=PL3eAkoh7fypr8zrkiygiY1e9osoqjoV9w) -  Pragmatic Reviews
+* [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU) - FreeCodeCamp
 
 
 ### Haskell
@@ -202,17 +230,21 @@
 * [Build a SaaS landing page using Skeleton](https://www.bloc.io/tutorials/jottly-a-beginner-s-guide-to-html-css-skeleton-and-animate-css)
 * [Build Dynamic Websites](http://cs75.tv/2010/fall/)
 * [Code Your First Game: Arcade Classic in JavaScript on Canvas](https://www.udemy.com/code-your-first-game/) - Chris DeLeon (Udemy)
+* [Complete HTML/CSS BootCamp](https://frontendmasters.com/bootcamp/) - FrontEnd Masters
 * [CSS Flexbox - Mastering the Basics](https://www.udemy.com/css-flexbox-mastering-the-basics/) - Vishwas Gopinath (Udemy)
 * [CSS Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWqMH9a9DY8LFKrJ5NJCFHHe)
 * [Flexbox in 30 Days](https://github.com/samanthaming/Flexbox30) - Samantha Ming
 * [HTML Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWr_FB-hVEgEGUESZL1TOiJ6)
 * [Learn how to program: CSS](https://www.learnhowtoprogram.com/css) - Epicodus Inc.
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
+* [Learn to style HTML using CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+* [Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 
 
 ### iOS
 
 * [AppCoda Complete iOS Tutorial](http://www.appcoda.com/ios-programming-course/)
+* [CS193p Developing Apps for IOS](https://cs193p.sites.stanford.edu) - Stanford
 * [Developing iOS 11 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316)
 * [Ray Wenderlich iOS Tutorial](https://www.raywenderlich.com/category/ios)
 
@@ -223,7 +255,9 @@
 * [Introduction to Java](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
 * [Java for Complete Beginners](http://courses.caveofprogramming.com/courses/java-for-complete-beginners)
 * [Java for Mobile Devices - Introducing Codename One](https://codenameone.teachable.com/p/java-for-mobile-devices-introducing-codename-one)
+* [Java Online Training | Edureka](https://www.youtube.com/watch?v=hBh_CC5y8-s) - (Edureka)
 * [Learn how to program: Java](https://www.learnhowtoprogram.com/java-june-2017) - Epicodus Inc.
+* [My Free Java Course - Automation, Development](https://angiejones.tech/free-java-course-test-automation/) - Angie Jones
 * [Object-Oriented programming with Java, part I](https://moocfi.github.io/courses/2013/programming-part-1/)
 * [Object-Oriented programming with Java, part II](https://moocfi.github.io/courses/2013/programming-part-2/)
 * [Princeton Algorithms, Part 1](https://www.coursera.org/course/algs4partI)
@@ -250,20 +284,21 @@
 * [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
 
-#### GraphQL
-
-* [The Road to GraphQL The Bare Essential Package](https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_GRAPHQL)
-
-
 #### jQuery
 
 * [Bento jQuery Track](https://bento.io/topic/jquery) (Bento)
 
 
+#### NodeJS
+
+* [Node.js Basics](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa-d0iZg41U2RDqECol9C5B) - Java Brains (Youtube)
+
+
 #### React
 
+* [React Crash Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4) - freecodecamp
+* [React Hooks](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h) - WebDevSimplified
 * [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals)
-* [The Road to learn React.js The Bare Essentials Packaage](https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_LEARN_REACT)
 
 
 #### Redux
@@ -271,14 +306,31 @@
 * [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
 
 
-### Sails.Js
+#### Sails.Js
 
-* [Develop web apps in Node.js and Sails.js](https://courses.platzi.com/courses/develop-apps-sails-js/)
+* [Develop web apps in free-programming-playgrounds.md.js and Sails.js](https://courses.platzi.com/courses/develop-apps-sails-js/)
+
+
+#### Vue.js
+
+* [Intro to Vue 2](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance)
+* [Intro to Vue 3](https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3)
+* [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals)
+* [Vuex for Everyone](https://vueschool.io/courses/vuex-for-everyone)
+
+
+### Kubernetes
+
+* [Learn Kubernetes](https://www.katacoda.com/courses/kubernetes) - Katacoda
 
 
 ### Linux
 
 * [Introduction To Linux](https://www.edx.org/course/introduction-to-linux/) - The Linux Foundation (edx)
+* [Linux Command Line](https://www.udemy.com/course/command-line/) - Adam Eubankas (Udemy)
+* [Linux Operating System Fundamentals](https://www.udemy.com/course/linux-academy-linux-operating-system-fundamentals/) - Linux Academy (Udemy)
+* [Linux Tutorials and Projects](https://www.udemy.com/course/linux-tutorials/) - Jason Cannon (Udemy)
+* [Red Hat Enterprise Linux Technical Overview](https://www.udemy.com/course/red-hat-enterprise-linux-technical-overview/) - Red Hat, Inc. (Udemy)
 
 
 ### Lua
@@ -290,6 +342,7 @@
 ### Machine Learning
 
 * [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+* [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) (Kaggle)
 * [Intro to Machine Learning Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120) (Udacity)
 * [Machine Learning Mini Bootcamp](https://lambdaschool.com/free-course-machine-learning/)
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book)
@@ -300,6 +353,7 @@
 
 ### MATLAB
 
+* [Data Processing and Feature Engineering with MATLAB](https://www.coursera.org/learn/feature-engineering-matlab) (coursera)
 * [MIT 18.S997 Introduction to MATLAB Programming](http://ocw.mit.edu/courses/mathematics/18-s997-introduction-to-matlab-programming-fall-2011/)
 
 
@@ -323,6 +377,7 @@
 * [Elements of AI](https://www.elementsofai.com)
 * [Embedded Software Safety](https://www.youtube.com/playlist?list=PLAQopGWlIcyaqDBW1zSKx7lHfVcOmWSWt) (P. Koopman)
 * [FindLectures.com](https://www.findlectures.com/?class1=Technology) - Index of conference talks by language / topic
+* [Introduction to Reinforcement Learning with David Silver](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver) - David Silver
 * [LouvainX Paradigms of Computer Programming – Abstraction and Concurrency](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-2x-1#!)
 * [LouvainX Paradigms of Computer Programming – Fundamentals](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-1x-1)
 * [MIT 6.S099: Artificial General Intelligence](https://agi.mit.edu)
@@ -381,8 +436,13 @@
 * [Learn to Program Using Python](https://www.edx.org/course/learn-program-using-python-utarlingtonx-cse1309x) (edX)
 * [Programming for Everybody](https://www.coursera.org/learn/python)
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) (Udacity)
+* [Python Beginners-Intermediate Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) - Corey Schafer
 * [Python Course](http://www.python-course.eu)
+* [Python Django Basics Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) - Corey Schafer
+* [Python Flask Framework Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) - Corey Schafer
+* [Python Flask Tutorial](https://www.tutorialspoint.com/flask/flask_overview.htm) (TutorialsPoint)
 * [Python Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpX_byHyTEj9hecPngl2DqR)
+* [SoloLearn](https://www.sololearn.com/Course/Python/)
 
 
 ### QB64
@@ -393,6 +453,8 @@
 ### R
 
 * [R Programming](https://www.coursera.org/course/rprog)
+* [R Programming Tutorial](https://www.youtube.com/watch?v=_V8eKsto3Ug) - (Barton Poulson) - (freeCodeCamp)
+* [R Tutorial For Beginners | Edureka](https://www.youtube.com/watch?v=fDRa82lxzaU) - (Edureka)
 
 
 ### RethinkDB
@@ -412,6 +474,11 @@
 * [Principles of Reactive Programming](https://www.coursera.org/course/reactive)
 
 
+### Security
+
+* [Ethical Hacking](https://www.hacker101.com/videos) -(Hacker101)
+
+
 ### Software Engineering
 
 * [Advanced Software Construction in Java](https://www.edx.org/course/advanced-software-construction-java-mitx-6-005-2x#!)
@@ -423,10 +490,12 @@
 ### SQL
 
 * [SQL Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWr_6xTfF2FrIw-NAOo3iWMy)
+* [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY) - (Mike Dane) - (freeCodeCamp)
 
 
 ### Swift
 
+* [100 days of Swift](https://www.hackingwithswift.com/100) - Hacking With Swift
 * [How To Make An App For Beginners (iOS/Swift - 2019)](https://www.udemy.com/how-to-make-an-app-for-beginners-iosswift-2019/) - Chris Ching (Udemy)
 * [Swiftris - Build an iOS Tetris app from scratch](https://www.bloc.io/swiftris-build-your-first-ios-game-with-swift)
 
