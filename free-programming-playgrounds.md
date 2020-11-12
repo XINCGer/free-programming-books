@@ -44,6 +44,7 @@
 
 ### ClojureScript
 
+* [Replumb REPL](https://clojurescript.io)
 * [Web REPL](http://clojurescript.net)
 
 
@@ -75,6 +76,7 @@
 ### Elm
 
 * [Ellie](https://ellie-app.com)
+* [Try Elm!](https://elm-lang.org/try)
 
 
 ### Flutter
@@ -160,6 +162,7 @@
 ### PHP
 
 * [Codepad](http://codepad.org)
+* [ExtendsClass](https://extendsclass.com/php.html)
 * [PHPFiddle](http://phpfiddle.org)
 * [PHPTester](http://phptester.net)
 
@@ -194,6 +197,7 @@
 ### Ruby
 
 * [Codepad](http://codepad.org)
+* [Sololearn](https://code.sololearn.com/#rb)
 * [TryRuby](https://try.ruby-lang.org)
 
 
@@ -235,4 +239,6 @@
 
 * [Playground](https://www.typescriptlang.org/play/index.html)
 * [StackBlitz](https://stackblitz.com/fork/typescript)
+
+
 
