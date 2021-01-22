@@ -223,7 +223,6 @@
 * [HgInit (中文版)](https://zh-hginit.readthedocs.io/en/latest/)
 * [Mercurial 使用教程](https://www.mercurial-scm.org/wiki/ChineseTutorial)
 * [Pro Git](https://git-scm.com/book/zh/v2)
-* [Pro Git 中文版](https://www.gitbook.com/book/0532/progit/details)
 * [Pro Git 第二版 中文版](https://bingohuang.gitbooks.io/progit2/content) - Bingo Huang
 * [svn 手册](http://svnbook.red-bean.com/nightly/zh/index.html)
 * [学习 Git 分支](https://learngitbranching.js.org)
@@ -414,7 +413,7 @@
 
 ### Haskell
 
-* [Haskell 趣学指南](http://learnyoua.haskell.sg)
+* [Haskell 趣学指南](https://learnyouahaskell.mno2.org)
 * [Real World Haskell 中文版](http://cnhaskell.com)
 
 
@@ -463,6 +462,7 @@
 * [Spring Boot参考指南](https://github.com/qibaoguang/Spring-Boot-Reference-Guide) (:construction: *翻译中*)
 * [Spring Framework 4.x参考文档](https://github.com/waylau/spring-framework-4-reference)
 * [用jersey构建REST服务](https://github.com/waylau/RestDemo)
+* [阿里巴巴 Java 开发手册](https://github.com/alibaba/p3c/blob/master/Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C%EF%BC%88%E5%B5%A9%E5%B1%B1%E7%89%88%EF%BC%89.pdf) (PDF)
 
 
 ### JavaScript

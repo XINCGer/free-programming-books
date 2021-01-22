@@ -1,5 +1,6 @@
 ### Index
 
+* [수학](#%EC%88%98%ED%95%99)
 * [Amazon Web Service](#amazon-web-service)
 * [Assembly Language](#assembly-language)
 * [C](#c)
@@ -27,6 +28,11 @@
 * [Swift](#swift)
 
 
+### 수학
+
+* [기초정수론: 계산과 법연산, 그리고 비밀통신을 강조한](https://wstein.org/ent/) - William Stein
+
+
 ### Amazon Web Service
 
 * [아마존 웹 서비스를 다루는 기술](http://www.pyrasis.com/private/2014/09/30/publish-the-art-of-amazon-web-services-book)
@@ -34,7 +40,7 @@
 
 ### Assembly Language
 
-* [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
+* [PC Assembly Language](http://pacman128.github.io/static/pcasm-book-korean.pdf) - Paul A. Carter (PDF)
 
 
 ### C
