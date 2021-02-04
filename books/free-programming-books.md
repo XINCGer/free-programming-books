@@ -19,7 +19,7 @@
 * [Blazor](#blazor)
 * [C](#c)
 * [C#](#c-sharp)
-* [C++](#c-1)
+* [C++](#cpp)
 * [Chapel](#chapel)
 * [Cilk](#cilk)
 * [Clojure](#clojure)
@@ -1100,7 +1100,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [MIA 90-02: BETA Compiler - Reference Manual](https://beta.cs.au.dk/Manuals/latest/compiler/index.html) - Mjølner Informatics
 * [MIA 94-26: BETA Language Introduction - Tutorial](https://beta.cs.au.dk/Manuals/latest/beta-intro/index.html) - Mjølner Informatics
 * [MIA 99-41: BETA Language Modifications - Reference Manual](https://beta.cs.au.dk/Manuals/latest/beta/beta-index.html) - Mjølner Informatics
-* [MIA 99-42: The Fragment System: Further Specification](https://beta.cs.au.dk/Manuals/latest/beta/fragment.html) - Mjølner Informatics 
+* [MIA 99-42: The Fragment System: Further Specification](https://beta.cs.au.dk/Manuals/latest/beta/fragment.html) - Mjølner Informatics
 * [Object-Oriented Programming in the BETA Programming Language](https://beta.cs.au.dk/Books/) - Ole Lehrmann Madsen, Birger Møller-Pedersen, Kristen Nygaard
 
 
@@ -1171,7 +1171,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Xamarin.Forms Succinctly](https://www.syncfusion.com/ebooks/xamarin-forms-succinctly) - Alessandro Del Sole
 
 
-### C++
+<h3 id="cpp">C++</h3>
 
 * [C++ Annotations](https://fbb-git.gitlab.io/cppannotations/) - Frank B. Brokken (HTML, PDF)
 * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) - Editors: Bjarne Stroustrup, Herb Sutter
@@ -1908,6 +1908,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
 * [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
 * [React-Bits](https://github.com/vasanthk/react-bits)
+* [React Book, your beginner guide to React](https://github.com/softchris/react-book/) - Chris Noring
 * [React Enlightenment](https://www.gitbook.com/book/frontendmasters/react-enlightenment/details)
 * [React In-depth: An exploration of UI development](https://www.gitbook.com/book/developmentarc/react-indepth/details)
 * [React JS Notes for Professionals](https://goalkicker.com/ReactJSBook/) - Compiled from StackOverflow Documentation (PDF)
@@ -1955,7 +1956,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [Introducing Julia](https://en.wikibooks.org/wiki/Introducing_Julia) - Wikibooks
 * [Julia by Example](http://samuelcolvin.github.io/JuliaByExample) - Samuel Colvin (GitHub repo)
-* [Julia language: a concise tutorial](https://www.gitbook.com/book/sylvaticus/julia-language-a-concise-tutorial) - Antonello Lobianco (GitBook)
+* [Julia language: a concise tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial) - Antonello Lobianco (GitBook)
 * [Learn Julia in Y minutes](https://learnxinyminutes.com/docs/julia) - Leah Hanson
 * [Quantitative Economics with Julia](https://julia.quantecon.org/_downloads/pdf/quantitative_economics_with_julia.pdf) - Jesse Perla, Thomas J. Sargent and John Stachurski (PDF)
 * [The Julia Express](http://bogumilkaminski.pl/files/julia_express.pdf) - Bogumił Kamiński (PDF)
@@ -2847,6 +2848,7 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Standard ML
 
 * [Introduction to Standard ML](http://www.pllab.riec.tohoku.ac.jp/smlsharp/smlIntroSlides.pdf) - Atsushi Ohori (PDF)
+* [ML for the Working Programmer, 2nd Edition](https://www.cl.cam.ac.uk/~lp15/MLbook/pub-details.html) - Lawrence C. Paulson
 * [Programming in Standard ML '97](http://homepages.inf.ed.ac.uk/stg/NOTES/) - Stephen Gilmore, University of Edinburgh
 * [Programming in Standard ML, DRAFT](http://www.cs.cmu.edu/~rwh/isml/book.pdf) - Robert Harper (PDF)
 * [SML# Document](http://www.pllab.riec.tohoku.ac.jp/smlsharp/docs/3.0/en/manual.xhtml) - Atsushi Ohori, Katsuhiro Ueno
@@ -2911,7 +2913,7 @@ Kerridge (PDF) (email address *requested*, not required)
 #### Angular
 
 * [Angular 2+ Notes for Professionals](https://goalkicker.com/Angular2Book/) - Compiled from StackOverflow documentation (PDF)
-* [Angular Docs](https://angular.io/docs) 
+* [Angular Docs](https://angular.io/docs)
 * [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) - Ankit Sharma
 
 
