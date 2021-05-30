@@ -9,6 +9,7 @@
 * [Database](#database)
   * [SQL](#sql)
 * [Delphi](#delphi)
+* [DevOps](#devops)
 * [Embedded](#embedded)
   * [Arduino](#arduino)
 * [Erlang](#erlang)
@@ -16,6 +17,7 @@
 * [Java](#Java)
 * [JavaScript](#javascript)
 * [Machine Learning](#machine-learning)
+* [Miscellaneous](#miscellaneous)
 * [Mobile](#mobile)
 * [Networking](#networking)
 * [Pascal](#pascal)
@@ -83,6 +85,11 @@
 * [Videocorso Delphi/Lazarus](https://www.youtube.com/watch?v=JxE1nUqriV0&list=PLF75FB30719A09FA2) (F. Camuso)
 
 
+### DevOps
+
+* [Docker - EmmeCiLab](https://www.youtube.com/playlist?list=PLCbSCJEIR6CpDJw4MawjHlgbsP3IG376e) (M. Cicolella)
+
+
 ### Embedded
 
 #### Arduino
@@ -125,6 +132,11 @@
 ### Machine Learning
 
 * [Machine Learning in italiano col Pollo Watzlawick](https://www.youtube.com/playlist?list=PLa-sizbCyh93c0nSPAb8k5ZZeOq4SBIl9) (P. Savastano)
+
+
+### Miscellaneous
+
+* [Programmazione Basic Commodore 64](https://www.youtube.com/playlist?list=PLCbSCJEIR6CrVT003ytijkO6kUrCT9VIT) - M. Cicolella
 
 
 ### Mobile

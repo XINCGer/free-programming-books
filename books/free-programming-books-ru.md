@@ -53,7 +53,6 @@
 * [Python](#python)
   * [Django](#django)
 * [R](#r)
-* [Reverse engineering](#reverse-engineering)
 * [Ruby](#ruby)
   * [RSpec](#rspec)
   * [Ruby on Rails](#ruby-on-rails)
@@ -73,7 +72,7 @@
 ### 0 - Language Agnostic
 
 * [3D-моделирование в Blender](https://younglinux.info/blender.php) - C. Шапошникова
-* [Введение в структуры и алгоритмы обработки данных](http://dsabook.mkurnosov.net) - Михаил Курносов (PDF)
+* [Введение в методы машинной обработки данных](https://mkurnosov.net/docs/dsa-book-2020.pdf) - Курносов М.Г. (PDF)
 * [Занимательное программирование. Самоучитель](http://padabum.com/x.php?id=35055) - Мозговой М.В. (PDF)
 * [Операционные системы](https://vseloved.github.io/pdf/os-ru.pdf) - Всеволод Дёмкин (PDF)
 * [Параллельные технологии](http://www.inp.nsk.su/~baldin/Parallel/index.html)
@@ -451,11 +450,6 @@
 
 * [Анализ данных с R](http://www.inp.nsk.su/~baldin/DataAnalysis/index.html)
 * [Рандомизация и бутстреп: статистический анализ в биологии и экологии с использованием R.](http://www.ievbras.ru/ecostat/Kiril/Article/A32/Starb.pdf) (PDF)
-
-
-### Reverse engineering
-
-* [Введение в reverse engineering для начинающих](https://beginners.re/RE4B-RU.pdf) - Денис Юричев (PDF)
 
 
 ### Ruby

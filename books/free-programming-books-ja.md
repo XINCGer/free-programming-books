@@ -331,11 +331,13 @@
 
 ### Go
 
-* [Goプログラミング言語のチュートリアル](http://golang.jp/go_tutorial) - 株式会社エイベル
-* [Tour of Go 日本語版](http://go-tour-jp.appspot.com/welcome/1) - atotto
+* [Go Codereview Comments](https://knsh14.github.io/translations/go-codereview-comments/) - Kenshi Kamata
+* [Go Web プログラミング](https://astaxie.gitbooks.io/build-web-application-with-golang/content/ja/) - AstaXie
 * [お気楽 Go 言語プログラミング入門](http://www.nct9.ne.jp/m_hiroi/golang/) - 広井誠
-* [はじめてのGo言語](http://cuto.unirita.co.jp/gostudy/) - 株式会社ユニリタ
-* [実践Go言語](http://golang.jp/effective_go) - 株式会社エイベル
+* [サンプルで学ぶ Go 言語](https://www.spinute.org/go-by-example/) - Mark McGranaghan, spinute(翻訳)
+* [テスト駆動開発でGO言語を学びましょう](https://andmorefine.gitbook.io/learn-go-with-tests/) - Christopher James, andmorefine(翻訳)
+* [はじめてのGo―シンプルな言語仕様，型システム，並行処理](https://gihyo.jp/dev/feature/01/go_4beginners) - Jxck
+* [プログラミング言語 Go ドキュメント](http://go.shibu.jp) - The Go Authors, SHIBUKAWA Yoshiki 他(翻訳)
 
 
 ### Groovy
@@ -602,6 +604,7 @@
 * [お気楽 Ruby プログラミング入門](http://www.nct9.ne.jp/m_hiroi/light/ruby.html) - 広井誠
 * [つくって学ぶプログラミング言語 RubyによるScheme処理系の実装](https://tatsu-zine.com/books/scheme-in-ruby) - 渡辺昌寛
 * [ホワイの(感動的)Rubyガイド](http://www.aoky.net/articles/why_poignant_guide_to_ruby/) - why the lucky stiff, 青木靖(翻訳)
+* [実用的Rubyスクリプティング](https://www.gentei.org/~yuuji/support/sr/scrp-2020-05.pdf) - 広瀬雄二 (PDF)
 
 
 ### Sather
